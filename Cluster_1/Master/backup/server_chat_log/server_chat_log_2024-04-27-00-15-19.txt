@@ -1,0 +1,17 @@
+[00:00:27]: [Join Announcement] simonmysun
+[00:01:46]: [Join Announcement] lucylu627
+[00:36:53]: [Death Announcement] lucylu627 was killed by Clockwork Knight. She became a spooky ghost!
+[00:37:28]: [Leave Announcement] lucylu627
+[00:37:34]: [Vote Announcement] rollback passed
+[00:37:46]: [Roll Announcement] (KU_08rWyoX7) simonmysun 22 (1-100)
+[00:38:57]: [Join Announcement] lucylu627
+[00:49:13]: [Death Announcement] lucylu627 was killed by Bee. She became a spooky ghost!
+[00:49:24]: [Vote Announcement] rollback passed
+[00:57:54]: [Skin Announcement] simonmysun feet_warly_fisherman
+[01:05:54]: [Skin Announcement] lucylu627 body_flannel_purple_grape
+[01:13:25]: [Death Announcement] simonmysun was killed by Darkness. He became a spooky ghost!
+[01:16:32]: [Resurrect Announcement] simonmysun was resurrected by Touch Stone.
+[01:16:54]: [Vote Announcement] rollback passed
+[01:17:24]: [Vote Announcement] rollback passed
+[01:28:26]: [Leave Announcement] simonmysun
+[01:28:27]: [Leave Announcement] lucylu627

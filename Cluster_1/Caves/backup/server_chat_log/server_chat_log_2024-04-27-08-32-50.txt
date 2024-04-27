@@ -1,0 +1,54 @@
+[00:00:22]: [Join Announcement] simonmysun
+[00:02:23]: [Join Announcement] lucylu627
+[00:17:17]: [Death Announcement] simonmysun was killed by Monster Meat. He became a spooky ghost!
+[00:18:08]: [Death Announcement] lucylu627 was killed by Hound. She became a spooky ghost!
+[00:18:13]: [Vote Announcement] rollback passed
+[00:20:34]: [Death Announcement] simonmysun was killed by Tentacle. He became a spooky ghost!
+[00:20:41]: [Vote Announcement] rollback passed
+[00:23:10]: [Death Announcement] lucylu627 was killed by Tentacle. She became a spooky ghost!
+[00:23:20]: [Death Announcement] simonmysun was killed by Tentacle. He became a spooky ghost!
+[00:23:20]: [Vote Announcement] rollback passed
+[00:25:53]: [Death Announcement] simonmysun was killed by Hound. He became a spooky ghost!
+[00:27:00]: [Vote Announcement] rollback passed
+[00:27:04]: [Death Announcement] lucylu627 was killed by Merm. She became a spooky ghost!
+[00:29:33]: [Death Announcement] simonmysun was killed by Hound. He became a spooky ghost!
+[00:29:47]: [Vote Announcement] rollback passed
+[00:33:13]: [Death Announcement] simonmysun was killed by Tentacle. He became a spooky ghost!
+[00:34:06]: [Vote Announcement] rollback passed
+[00:37:31]: [Death Announcement] lucylu627 was killed by Tentacle. She became a spooky ghost!
+[00:37:45]: [Death Announcement] simonmysun was killed by Tentacle. He became a spooky ghost!
+[00:38:00]: [Vote Announcement] rollback passed
+[00:41:50]: [Death Announcement] simonmysun was killed by Merm. He became a spooky ghost!
+[00:42:00]: [Vote Announcement] rollback passed
+[00:42:05]: [Death Announcement] lucylu627 was killed by Tentacle. She became a spooky ghost!
+[00:47:52]: [Death Announcement] lucylu627 was killed by Crawling Horror. She became a spooky ghost!
+[00:48:19]: [Vote Announcement] rollback passed
+[00:50:47]: [Death Announcement] simonmysun was killed by Hound. He became a spooky ghost!
+[00:50:55]: [Vote Announcement] rollback passed
+[00:52:22]: [Death Announcement] lucylu627 was killed by Beefalo. She became a spooky ghost!
+[00:54:10]: [Vote Announcement] rollback passed
+[00:56:42]: [Death Announcement] simonmysun was killed by Hound. He became a spooky ghost!
+[00:57:02]: [Vote Announcement] rollback passed
+[01:00:31]: [Death Announcement] lucylu627 was killed by Beefalo. She became a spooky ghost!
+[01:00:53]: [Vote Announcement] rollback passed
+[01:07:50]: [Death Announcement] simonmysun was killed by Batilisk. He became a spooky ghost!
+[01:07:59]: [Death Announcement] lucylu627 was killed by Batilisk. She became a spooky ghost!
+[01:08:09]: [Vote Announcement] rollback passed
+[01:16:48]: [Death Announcement] simonmysun was killed by Monster Meat. He became a spooky ghost!
+[01:17:05]: [Vote Announcement] rollback passed
+[01:18:00]: [Vote Announcement] rollback passed
+[01:23:29]: [Death Announcement] lucylu627 was killed by Crawling Horror. She became a spooky ghost!
+[01:23:44]: [Death Announcement] simonmysun was killed by Monster Lasagna. He became a spooky ghost!
+[01:25:58]: [Vote Announcement] rollback passed
+[01:31:42]: [Death Announcement] simonmysun was killed by Batilisk. He became a spooky ghost!
+[01:32:27]: [Death Announcement] lucylu627 was killed by Batilisk. She became a spooky ghost!
+[01:32:27]: [Vote Announcement] rollback passed
+[01:37:26]: [Death Announcement] lucylu627 was killed by Batilisk. She became a spooky ghost!
+[01:37:42]: [Vote Announcement] rollback passed
+[01:43:23]: [Death Announcement] simonmysun was killed by Starvation. He became a spooky ghost!
+[01:43:41]: [Vote Announcement] rollback passed
+[02:19:43]: [Vote Announcement] rollback passed
+[02:21:37]: [Death Announcement] lucylu627 was killed by Spider. She became a spooky ghost!
+[02:21:42]: [Vote Announcement] rollback passed
+[02:43:40]: [Skin Announcement] simonmysun treasurechest_posh
+[02:56:35]: [Leave Announcement] simonmysun

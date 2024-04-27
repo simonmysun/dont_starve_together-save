@@ -1,0 +1,5 @@
+[00:00:24]: [Join Announcement] simonmysun
+[00:01:10]: [Join Announcement] lucylu627
+[00:22:50]: [Death Announcement] lucylu627 was killed by Frog. She became a spooky ghost!
+[00:26:24]: [Leave Announcement] simonmysun
+[00:26:25]: [Leave Announcement] lucylu627

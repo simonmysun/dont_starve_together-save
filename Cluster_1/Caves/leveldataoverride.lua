@@ -1,12 +1,12 @@
 return {
   background_node_range={ 0, 1 },
-  desc="Delve into the caves... together!",
+  desc="探查洞穴…… 一起！",
   hideminimap=false,
   id="DST_CAVE",
   location="cave",
   max_playlist_position=999,
   min_playlist_position=0,
-  name="The Caves",
+  name="洞穴",
   numrandom_set_pieces=0,
   override_level_string=false,
   overrides={
@@ -122,12 +122,12 @@ return {
     year_of_the_varg="default" 
   },
   required_prefabs={ "multiplayer_portal" },
-  settings_desc="Delve into the caves... together!",
+  settings_desc="探查洞穴…… 一起！",
   settings_id="DST_CAVE",
-  settings_name="The Caves",
+  settings_name="洞穴",
   substitutes={  },
   version=4,
-  worldgen_desc="Delve into the caves... together!",
+  worldgen_desc="探查洞穴…… 一起！",
   worldgen_id="DST_CAVE",
-  worldgen_name="The Caves" 
+  worldgen_name="洞穴" 
 }

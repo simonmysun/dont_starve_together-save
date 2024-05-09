@@ -1,4 +1,29 @@
 return {
+  ["workshop-2287303119"]={
+    configuration_options={
+      [""]=0,
+      Show_naughtiness=false,
+      Show_range=false,
+      T_crop=true,
+      chestB=-1,
+      chestG=-1,
+      chestR=-1,
+      display_hp=1,
+      food_estimation=-1,
+      food_order=0,
+      food_style=0,
+      item_info_mod=0,
+      lang="auto",
+      show_buddle_item=1,
+      show_food_units=-1,
+      show_fuel=true,
+      show_fueled=3,
+      show_nutrients=1,
+      show_planar_resist=true,
+      show_uses=-1 
+    },
+    enabled=true 
+  },
   ["workshop-378160973"]={
     configuration_options={
       ENABLEPINGS=true,
@@ -33,5 +58,6 @@ return {
       usetags="Unchanged" 
     },
     enabled=true 
-  } 
+  },
+  ["workshop-706633455"]={ configuration_options={ speedmultiplier=2 }, enabled=true } 
 }

@@ -1,5 +1,30 @@
 KLEI     1 return {
   enabled_mods={
+    ["workshop-2287303119"]={
+      configuration_options={
+        [""]=0,
+        Show_naughtiness=false,
+        Show_range=false,
+        T_crop=true,
+        chestB=-1,
+        chestG=-1,
+        chestR=-1,
+        display_hp=1,
+        food_estimation=-1,
+        food_order=0,
+        food_style=0,
+        item_info_mod=0,
+        lang="auto",
+        show_buddle_item=1,
+        show_food_units=-1,
+        show_fuel=true,
+        show_fueled=3,
+        show_nutrients=1,
+        show_planar_resist=true,
+        show_uses=-1 
+      },
+      enabled=true 
+    },
     ["workshop-378160973"]={
       configuration_options={
         ENABLEPINGS=true,
@@ -34,7 +59,8 @@ KLEI     1 return {
         usetags="Unchanged" 
       },
       enabled=true 
-    } 
+    },
+    ["workshop-706633455"]={ configuration_options={ speedmultiplier=2 }, enabled=true } 
   },
   server={
     clan={ admin=false, id="", only=false },
@@ -48,20 +74,20 @@ KLEI     1 return {
     playstyle="survival",
     privacy_type=1,
     pvp=false,
-    server_language="en" 
+    server_language="zh" 
   },
   session_id="F7A487E014281AF5",
   version=5,
   world={
     options={
       background_node_range={ 0, 1 },
-      desc="Delve into the caves... together!",
+      desc="探查洞穴…… 一起！",
       hideminimap=false,
       id="DST_CAVE",
       location="cave",
       max_playlist_position=999,
       min_playlist_position=0,
-      name="The Caves",
+      name="洞穴",
       numrandom_set_pieces=0,
       override_level_string=false,
       overrides={
@@ -177,14 +203,14 @@ KLEI     1 return {
         year_of_the_varg="default" 
       },
       required_prefabs={ "multiplayer_portal" },
-      settings_desc="Delve into the caves... together!",
+      settings_desc="探查洞穴…… 一起！",
       settings_id="DST_CAVE",
-      settings_name="The Caves",
+      settings_name="洞穴",
       substitutes={  },
       version=4,
-      worldgen_desc="Delve into the caves... together!",
+      worldgen_desc="探查洞穴…… 一起！",
       worldgen_id="DST_CAVE",
-      worldgen_name="The Caves" 
+      worldgen_name="洞穴" 
     } 
   } 
 }

@@ -1,2 +1,29 @@
-[00:00:21]: [Join Announcement] simonmysun
-[00:02:48]: [Leave Announcement] simonmysun
+[00:01:21]: [Join Announcement] simonmysun
+[00:03:33]: [Join Announcement] lucylu627
+[00:06:17]: [Death Announcement] simonmysun 死于： 洞穴蝙蝠。他变成了可怕的鬼魂！
+[00:06:23]: [Resurrect Announcement] simonmysun 复活自： 火坑.
+[00:07:09]: [Death Announcement] lucylu627 死于： 冻伤。她变成了可怕的鬼魂！
+[00:07:42]: [Resurrect Announcement] lucylu627 复活自： 火坑.
+[00:10:15]: [Death Announcement] simonmysun 死于： 黑暗。他变成了可怕的鬼魂！
+[00:10:20]: [Resurrect Announcement] simonmysun 复活自： 火坑.
+[00:10:35]: [Vote Announcement] rollback passed
+[00:15:29]: [Death Announcement] simonmysun 死于： 饥饿。他变成了可怕的鬼魂！
+[00:15:34]: [Resurrect Announcement] simonmysun 复活自： 火坑.
+[00:20:08]: [Death Announcement] simonmysun 死于： 冻伤。他变成了可怕的鬼魂！
+[00:20:11]: [Resurrect Announcement] simonmysun 复活自： 火坑.
+[00:20:25]: [Death Announcement] lucylu627 死于： 冻伤。她变成了可怕的鬼魂！
+[00:20:46]: [Resurrect Announcement] lucylu627 复活自： 火坑.
+[00:21:32]: [Death Announcement] simonmysun 死于： 冻伤。他变成了可怕的鬼魂！
+[00:23:47]: [Resurrect Announcement] simonmysun 复活自： 骷髅.
+[00:24:04]: [Death Announcement] lucylu627 死于： 冻伤。她变成了可怕的鬼魂！
+[00:24:41]: [Resurrect Announcement] lucylu627 复活自： 骷髅.
+[00:24:54]: [Death Announcement] simonmysun 死于： 黑暗。他变成了可怕的鬼魂！
+[00:24:55]: [Death Announcement] lucylu627 死于： 黑暗。她变成了可怕的鬼魂！
+[00:25:14]: [Resurrect Announcement] simonmysun 复活自： 骷髅.
+[00:25:20]: [Resurrect Announcement] lucylu627 复活自： 骷髅.
+[00:25:36]: [Death Announcement] lucylu627 死于： 黑暗。她变成了可怕的鬼魂！
+[00:25:45]: [Resurrect Announcement] lucylu627 复活自： 骷髅.
+[00:25:46]: [Death Announcement] simonmysun 死于： 黑暗。他变成了可怕的鬼魂！
+[00:25:57]: [Death Announcement] lucylu627 死于： 黑暗。她变成了可怕的鬼魂！
+[00:26:38]: [Resurrect Announcement] simonmysun 复活自： 骷髅.
+[00:26:45]: [Leave Announcement] simonmysun

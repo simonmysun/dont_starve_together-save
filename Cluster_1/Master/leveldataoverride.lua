@@ -1,11 +1,11 @@
 return {
-  desc="The standard Don't Starve experience.",
+  desc="标准《饥荒》体验。",
   hideminimap=false,
   id="SURVIVAL_TOGETHER",
   location="forest",
   max_playlist_position=999,
   min_playlist_position=0,
-  name="Survival",
+  name="生存",
   numrandom_set_pieces=4,
   override_level_string=false,
   overrides={
@@ -216,12 +216,12 @@ return {
   },
   required_prefabs={ "multiplayer_portal" },
   required_setpieces={ "Sculptures_1", "Maxwell5" },
-  settings_desc="The standard Don't Starve experience.",
+  settings_desc="标准《饥荒》体验。",
   settings_id="SURVIVAL_TOGETHER",
-  settings_name="Survival",
+  settings_name="生存",
   substitutes={  },
   version=4,
-  worldgen_desc="The standard Don't Starve experience.",
+  worldgen_desc="标准《饥荒》体验。",
   worldgen_id="SURVIVAL_TOGETHER",
-  worldgen_name="Survival" 
+  worldgen_name="生存" 
 }

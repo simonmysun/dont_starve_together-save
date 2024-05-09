@@ -1,0 +1,11 @@
+[00:02:22]: [Join Announcement] simonmysun
+[00:03:11]: [Join Announcement] lucylu627
+[00:04:45]: [Death Announcement] simonmysun was killed by Darkness. He became a spooky ghost!
+[00:05:12]: [Vote Announcement] rollback passed
+[00:11:18]: [Death Announcement] simonmysun was killed by Starvation. He became a spooky ghost!
+[00:11:30]: [Vote Announcement] rollback passed
+[00:22:14]: [Death Announcement] simonmysun was killed by Starvation. He became a spooky ghost!
+[00:22:20]: [Death Announcement] lucylu627 was killed by Freezing. She became a spooky ghost!
+[00:22:28]: [Vote Announcement] rollback passed
+[00:23:00]: [Leave Announcement] lucylu627
+[00:23:00]: [Leave Announcement] simonmysun

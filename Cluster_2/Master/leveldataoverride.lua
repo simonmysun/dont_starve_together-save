@@ -1,13 +1,13 @@
 return {
-  desc="更轻松的游戏方式，更少受到来自世界的威胁。\
-饥饿、寒冷、过热和黑暗将不会杀死冒险家。\
-降低冒险家受到的伤害。永远可以在绚丽之门复活。",
+  desc="A more relaxed playstyle with less threats from the world.\
+Survivors will not die from starvation, freezing, overheating, or the darkness.\
+Damage to survivors is reduced. Resurrection is always available via the Florid Postern.",
   hideminimap=false,
   id="RELAXED",
   location="forest",
   max_playlist_position=999,
   min_playlist_position=0,
-  name="轻松",
+  name="Relaxed",
   numrandom_set_pieces=4,
   override_level_string=false,
   overrides={
@@ -218,16 +218,16 @@ return {
   },
   required_prefabs={ "multiplayer_portal" },
   required_setpieces={ "Sculptures_1", "Maxwell5" },
-  settings_desc="更轻松的游戏方式，更少受到来自世界的威胁。\
-饥饿、寒冷、过热和黑暗将不会杀死冒险家。\
-降低冒险家受到的伤害。永远可以在绚丽之门复活。",
+  settings_desc="A more relaxed playstyle with less threats from the world.\
+Survivors will not die from starvation, freezing, overheating, or the darkness.\
+Damage to survivors is reduced. Resurrection is always available via the Florid Postern.",
   settings_id="RELAXED",
-  settings_name="轻松",
+  settings_name="Relaxed",
   substitutes={  },
   version=4,
-  worldgen_desc="更轻松的游戏方式，更少受到来自世界的威胁。\
-饥饿、寒冷、过热和黑暗将不会杀死冒险家。\
-降低冒险家受到的伤害。永远可以在绚丽之门复活。",
+  worldgen_desc="A more relaxed playstyle with less threats from the world.\
+Survivors will not die from starvation, freezing, overheating, or the darkness.\
+Damage to survivors is reduced. Resurrection is always available via the Florid Postern.",
   worldgen_id="RELAXED",
-  worldgen_name="轻松" 
+  worldgen_name="Relaxed" 
 }

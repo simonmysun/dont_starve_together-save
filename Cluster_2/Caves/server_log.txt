@@ -1,39 +1,23 @@
-[00:00:00]: 
-System Memory:
-	Memory Load: 40%
-	Available Physical Memory: 9596m/16199m
-	Available Page File: 10226m/18631m
-	Available Virtual Memory: 134213478m/134217727m
-	Available Extended Virtual Memory: 0m
-[00:00:00]: 
-Process Memory:
-	Peak Working Set Size: 31m
-	Working Set Size: 31m
-	Quota Peak Page Pool Usage: 225k
-	Quota Page Pool Usage: 222k
-	Quota Peak Non Paged Pool Usage:20k
-	Quota Non Paged Pool Usage: 15k
-	Page File Usage: 5m
-	Peak Page File Usage: 5m
-[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/347240807/Cluster_2/Caves/ 
+[00:00:00]: PersistRootStorage is now /home/mysun/.klei//DoNotStarveTogether/347240807/Cluster_2/Caves/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 605310
-[00:00:00]: Current time: Thu May 09 01:02:35 2024
+[00:00:00]: Current time: Fri May 10 01:09:13 2024
 
-[00:00:00]: Don't Starve Together: 605310 WIN32
-[00:00:00]: Build Date: 2628
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: mys-pc-arch-0
+[00:00:00]: Release(Kernel) Version: 6.8.9-arch1-1
+[00:00:00]: Kernel Build Timestamp: #1 SMP PREEMPT_DYNAMIC Thu, 02 May 2024 17:49:46 +0000
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 605310 LINUX
+[00:00:00]: Build Date: 2439
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -monitor_parent_process 8044 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_2 -fo -ownernetid 76561198307506535 -ownerdir 347240807 -clouddir 347240807 -backup_log_count 25 -backup_log_period 0 -ugc_directory F:\\SteamLibrary\\steamapps\\workshop -shard Caves -secondary_log_prefix caves -sigprefix DST_Secondary -token *********************************************************************************** 
+[00:00:00]: Command Line Arguments: -monitor_parent_process 64616 -persistent_storage_root /home/mysun/.klei/ -conf_dir DoNotStarveTogether -cluster Cluster_2 -fo -ownernetid 76561198307506535 -ownerdir 347240807 -clouddir 347240807 -backup_log_count 25 -backup_log_period 0 -ugc_directory /home/mysun/.local/share/Steam/steamapps/workshop -shard Caves -secondary_log_prefix caves -sigprefix DST_Secondary -token *********************************************************************************** 
 [00:00:00]: Initializing distribution platform
-[00:00:00]: Initializing Minidump handler
 [00:00:00]: ....Done
-[00:00:00]: ....Done
-[00:00:00]: Fixing DPI
-[00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (13500)
+[00:00:00]: THREAD - started 'GAClient' (133106820449984)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:3.88
+[00:00:00]: ProfileIndex:0.52
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -47,1393 +31,2161 @@ Process Memory:
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:01]: Authorized application F:\SteamLibrary\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
-[00:00:01]: WindowsFirewall - Application already authorized
-[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/347240807/client_save/blocklist.txt (Failure)
-[00:00:01]: THREAD - started 'StreamInput' (9148)
-[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/347240807/client_save/adminlist.txt (Failure)
-[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/347240807/client_save/whitelist.txt (Failure)
-[00:00:01]: Offline user ID: OU_76561198307506535
-[00:00:01]: HardwareStats:
-  OS                        
-    name                      Microsoft Windows 11 家庭版
-    version                   10.0.22635
-    platformSpecific          SP 0.0
-    architecture              64 位
-  CPU                       
-    clockSpeed                2001
-    name                      Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
-    manufacturer              GenuineIntel
-    numCores                  4
-    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
-  RAM                       
-    megsOfRam                 16384
-  GPU                       
-    megsOfRam                 1024
-    videoModeDescription      3840 x 2160 x 4294967296 种颜色
-    name                      Intel(R) UHD Graphics 620
-    driverVersion             26.20.100.6913
-    driverDate                20190604000000.000000-000
-    refreshRate               59
-
-[00:00:01]: cGame::InitializeOnMainThread
-[00:00:01]: Renderer initialize: Okay
-[00:00:01]: AnimManager initialize: Okay
-[00:00:01]: Buffers initialize: Okay
-[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
-[00:00:01]: GameSpecific initialize: Okay
-[00:00:01]: cGame::StartPlaying
-[00:00:01]: AppVersion::GetArchitecture() x64
-[00:00:01]: LOADING LUA
-[00:00:01]: DoLuaFile scripts/main.lua
-[00:00:01]: DoLuaFile loading buffer scripts/main.lua
-[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
-[00:00:04]:   taskgrouplist:	default	联机版	
-[00:00:04]:   taskgrouplist:	classic	经典	
-[00:00:04]:   taskgrouplist:	cave_default	地下	
-[00:00:04]:   taskgrouplist:	lavaarena_taskset	熔炉	
-[00:00:04]:   taskgrouplist:	quagmire_taskset	暴食	
-[00:00:05]: Running main.lua
+[00:00:00]: THREAD - started 'StreamInput' (133106812061376)
+[00:00:00]: OnLoadPermissionList: /home/mysun/.klei//DoNotStarveTogether/347240807/client_save/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/mysun/.klei//DoNotStarveTogether/347240807/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /home/mysun/.klei//DoNotStarveTogether/347240807/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561198307506535
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: Running main.lua
 	
-[00:00:05]: Could not load modindex	
-[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:05]: SUCCESS: Loaded modoverrides.lua	
-[00:00:05]: modoverrides.lua enabling workshop-2287303119	
-[00:00:05]: modoverrides.lua enabling workshop-378160973	
-[00:00:05]: modoverrides.lua enabling workshop-706633455	
-[00:00:05]: modoverrides.lua enabling workshop-569043634	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-706633455_CLIENT	
-[00:00:05]: Loading mod: workshop-706633455 (Ghost speedup) Version:0.3	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
-[00:00:05]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.3	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
-[00:00:05]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-569043634_CLIENT	
-[00:00:05]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
-[00:00:05]: Overriding mod workshop-2287303119's option  with value 0	
-[00:00:05]: Overriding mod workshop-2287303119's option  with value 0	
-[00:00:05]: Overriding mod workshop-2287303119's option chestR with value -1	
-[00:00:05]: Overriding mod workshop-2287303119's option food_style with value 0	
-[00:00:05]: Overriding mod workshop-2287303119's option display_hp with value 1	
-[00:00:05]: Overriding mod workshop-2287303119's option food_order with value 0	
-[00:00:05]: Overriding mod workshop-2287303119's option chestG with value -1	
-[00:00:05]: Overriding mod workshop-2287303119's option Show_range with value false	
-[00:00:05]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
-[00:00:05]: Overriding mod workshop-2287303119's option T_crop with value true	
-[00:00:05]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
-[00:00:05]: Overriding mod workshop-2287303119's option show_uses with value -1	
-[00:00:05]: Overriding mod workshop-2287303119's option food_estimation with value -1	
-[00:00:05]: Overriding mod workshop-2287303119's option Show_naughtiness with value false	
-[00:00:05]: Overriding mod workshop-2287303119's option show_fueled with value 3	
-[00:00:05]: Overriding mod workshop-2287303119's option show_fuel with value true	
-[00:00:05]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
-[00:00:05]: Overriding mod workshop-2287303119's option chestB with value -1	
-[00:00:05]: Overriding mod workshop-2287303119's option show_food_units with value -1	
-[00:00:05]: Overriding mod workshop-2287303119's option lang with value auto	
-[00:00:05]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
-[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-706633455	
-[00:00:05]: Overriding mod workshop-706633455's option speedmultiplier with value 2	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
-[00:00:05]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
-[00:00:05]: Overriding mod workshop-569043634's option campfire with value Enabled	
-[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option skeleton with value Enabled	
-[00:00:05]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option reviver with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option coldfire with value Enabled	
-[00:00:05]: Overriding mod workshop-569043634's option SpawnProtection with value Enabled	
-[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option firepit with value Enabled	
-[00:00:05]: Overriding mod workshop-569043634's option usetags with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
-[00:00:05]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
-[00:00:05]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
-[00:00:05]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
-[00:00:05]: ShowMe version:	0.59.9.3	
-[00:00:05]: show_food_units	-1	-1	-1	
-[00:00:05]: show_uses	-1	-1	-1	
-[00:00:05]: Detected language for ShowMe: 	auto	zh	
-[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-706633455 (Ghost speedup)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-706633455 (Ghost speedup)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-706633455 (Ghost speedup)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
-[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:07]: LOADING LUA SUCCESS
-[00:00:07]: Registering Server mod namespace "showmeshint"
-[00:00:07]: Registering Server mod namespace "workshop-378160973"
-[00:00:07]: Registering Server mod namespace "showme"
-[00:00:07]: PlayerDeaths could not load morgue	
-[00:00:07]: PlayerHistory could not load player_history	
-[00:00:07]: ServerPreferences could not load server_preferences	
-[00:00:07]: ConsoleScreenSettings could not load consolescreen	
-[00:00:07]: bloom_enabled	true	
-[00:00:07]: OnFilesLoaded()	
-[00:00:07]: OnUpdatePurchaseStateComplete	
-[00:00:07]: Klump load on boot started.	
-[00:00:07]: Klump files loaded: 	0	
-[00:00:10]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
-[00:00:10]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
-[00:00:10]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
-[00:00:10]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
-[00:00:10]: Mod: workshop-706633455 (Ghost speedup)	Registering prefabs	
-[00:00:10]: Mod: workshop-706633455 (Ghost speedup)	  Registering default mod prefab	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:10]: 	Load FE	
-[00:00:11]: 	Load FE: done	
-[00:00:11]: THREAD - started 'FilesExistAsyncThread' (5996)
-[00:00:11]: FilesExistAsyncThread started (23977 files)...
+[00:00:00]: SUCCESS: Loaded modoverrides.lua	
+[00:00:00]: modoverrides.lua enabling workshop-2287303119	
+[00:00:00]: modoverrides.lua enabling workshop-378160973	
+[00:00:00]: modoverrides.lua enabling workshop-706633455	
+[00:00:00]: modoverrides.lua enabling workshop-569043634	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
+[00:00:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-706633455_CLIENT	
+[00:00:00]: Loading mod: workshop-706633455 (Ghost speedup) Version:0.3	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
+[00:00:00]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.3	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:00]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-569043634_CLIENT	
+[00:00:00]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:00]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:00]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:00]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:00]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:00]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:00]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:00]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:00]: Overriding mod workshop-2287303119's option Show_range with value false	
+[00:00:00]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
+[00:00:00]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:00]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:00]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:00]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:00]: Overriding mod workshop-2287303119's option Show_naughtiness with value false	
+[00:00:00]: Overriding mod workshop-2287303119's option show_fueled with value 3	
+[00:00:00]: Overriding mod workshop-2287303119's option show_fuel with value true	
+[00:00:00]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:00]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:00]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:00]: Overriding mod workshop-2287303119's option lang with value auto	
+[00:00:00]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:00]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-706633455	
+[00:00:00]: Overriding mod workshop-706633455's option speedmultiplier with value 2	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
+[00:00:00]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
+[00:00:00]: Overriding mod workshop-569043634's option campfire with value Enabled	
+[00:00:00]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option skeleton with value Enabled	
+[00:00:00]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option reviver with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option coldfire with value Enabled	
+[00:00:00]: Overriding mod workshop-569043634's option SpawnProtection with value Enabled	
+[00:00:00]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option firepit with value Enabled	
+[00:00:00]: Overriding mod workshop-569043634's option usetags with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
+[00:00:00]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
+[00:00:00]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
+[00:00:00]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:00]: ShowMe version:	0.59.9.3	
+[00:00:00]: show_food_units	-1	-1	-1	
+[00:00:00]: show_uses	-1	-1	-1	
+[00:00:00]: Detected language for ShowMe: 	auto		
+[00:00:00]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:00]: Mod: workshop-706633455 (Ghost speedup)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-706633455 (Ghost speedup)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-706633455 (Ghost speedup)	Loading modmain.lua	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
+[00:00:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:00]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:01]: LOADING LUA SUCCESS
+[00:00:01]: Registering Server mod namespace "showmeshint"
+[00:00:01]: Registering Server mod namespace "workshop-378160973"
+[00:00:01]: Registering Server mod namespace "showme"
+[00:00:01]: PlayerDeaths could not load morgue	
+[00:00:01]: PlayerHistory could not load player_history	
+[00:00:01]: ServerPreferences could not load server_preferences	
+[00:00:01]: ConsoleScreenSettings could not load consolescreen	
+[00:00:01]: bloom_enabled	true	
+[00:00:01]: OnFilesLoaded()	
+[00:00:01]: OnUpdatePurchaseStateComplete	
+[00:00:01]: Klump load on boot started.	
+[00:00:01]: Klump files loaded: 	0	
+[00:00:01]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:01]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:01]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:01]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:01]: Mod: workshop-706633455 (Ghost speedup)	Registering prefabs	
+[00:00:01]: Mod: workshop-706633455 (Ghost speedup)	  Registering default mod prefab	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:01]: 	Load FE	
+[00:00:02]: THREAD - started 'FilesExistAsyncThread' (133106679940800)
+[00:00:02]: FilesExistAsyncThread started (23977 files)...
+[00:00:02]: 	Load FE: done	
+[00:00:02]: Check for write access: TRUE
+[00:00:02]: Check for read access: TRUE
+[00:00:02]: Available disk space for save files: 125829 MB
+[00:00:02]: ModIndex: Load sequence finished successfully.	
+[00:00:02]: Reset() returning
+[00:00:02]: [IPC] Signal created '/DST_Secondary_Kill'  #0x790f5c9b2000
+[00:00:02]: [IPC] Registering handler for signal #0x790f5c9b2000
+[00:00:02]: [IPC] Signal created '/DST_Secondary_ShutdownNoSave'  #0x790f5c9b1000
+[00:00:02]: [IPC] Registering handler for signal #0x790f5c9b1000
+[00:00:02]: [IPC] Signal created '/DST_Secondary_Starting'  #0x790f5c486000
+[00:00:02]: [IPC] Sending signal.... #0x790f5c486000
+[00:00:02]: ... FilesExistAsyncThread complete
+[00:00:02]: [200] Account Communication Success (6)
+[00:00:02]: Cached userid (null) saved to /home/mysun/.klei//DoNotStarveTogether/347240807/Cluster_2/Caves/save/cached_userid
+[00:00:02]: Received (KU_08rWyoX7) from TokenPurpose
+[00:00:02]: Starting Dedicated Server Game	
+[00:00:02]: Network tick rate: U=15(2), D=0
+[00:00:02]: About to start a server with the following settings:
+[00:00:02]:   Dedicated: true
+[00:00:02]:   Online: true
+[00:00:02]:   Passworded: false
+[00:00:02]:   ServerPort: 10998
+[00:00:02]:   SteamAuthPort: 8767
+[00:00:02]:   SteamMasterServerPort: 27017
+[00:00:02]:   ClanID: false
+[00:00:02]:   ClanOnly: false
+[00:00:02]:   ClanAdmin: false
+[00:00:02]:   LanOnly: false
+[00:00:02]:   FriendsOnly: true
+[00:00:02]:   EnableAutosaver: true
+[00:00:02]:   EncodeUserPath: true
+[00:00:02]:   PVP: false
+[00:00:02]:   MaxPlayers: 6
+[00:00:02]:   GameMode: survival
+[00:00:02]:   OverridenDNS: 
+[00:00:02]:   PauseWhenEmpty: true
+[00:00:02]:   IdleTimeout: 1800s
+[00:00:02]:   VoteEnabled: false
+[00:00:02]:   InternetBroadcasting: true
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-706633455	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:02]: Online Server Started on port: 10998
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: Found a level data override file with these contents:	
+[00:00:02]: 	K: 	background_node_range	 V: 	table: 0xb804790	
+[00:00:02]: 		K: 	1	 V: 	0	
+[00:00:02]: 		K: 	2	 V: 	1	
+[00:00:02]: 	K: 	desc	 V: 	Delve into the caves... together!	
+[00:00:02]: 	K: 	hideminimap	 V: 	false	
+[00:00:02]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:02]: 	K: 	location	 V: 	cave	
+[00:00:02]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:02]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:02]: 	K: 	name	 V: 	The Caves	
+[00:00:02]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:02]: 	K: 	override_level_string	 V: 	false	
+[00:00:02]: 	K: 	overrides	 V: 	table: 0xb804160	
+[00:00:02]: 		K: 	acidrain_enabled	 V: 	always	
+[00:00:02]: 		K: 	atriumgate	 V: 	default	
+[00:00:02]: 		K: 	banana	 V: 	default	
+[00:00:02]: 		K: 	basicresource_regrowth	 V: 	none	
+[00:00:02]: 		K: 	bats	 V: 	default	
+[00:00:02]: 		K: 	bats_setting	 V: 	default	
+[00:00:02]: 		K: 	beefaloheat	 V: 	default	
+[00:00:02]: 		K: 	berrybush	 V: 	default	
+[00:00:02]: 		K: 	boons	 V: 	default	
+[00:00:02]: 		K: 	branching	 V: 	default	
+[00:00:02]: 		K: 	brightmarecreatures	 V: 	rare	
+[00:00:02]: 		K: 	bunnymen	 V: 	default	
+[00:00:02]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:02]: 		K: 	cave_ponds	 V: 	default	
+[00:00:02]: 		K: 	cave_spiders	 V: 	default	
+[00:00:02]: 		K: 	cavelight	 V: 	default	
+[00:00:02]: 		K: 	chess	 V: 	default	
+[00:00:02]: 		K: 	crow_carnival	 V: 	default	
+[00:00:02]: 		K: 	darkness	 V: 	nonlethal	
+[00:00:02]: 		K: 	day	 V: 	default	
+[00:00:02]: 		K: 	daywalker	 V: 	default	
+[00:00:02]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:02]: 		K: 	dustmoths	 V: 	default	
+[00:00:02]: 		K: 	earthquakes	 V: 	default	
+[00:00:02]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:02]: 		K: 	fern	 V: 	default	
+[00:00:02]: 		K: 	fissure	 V: 	default	
+[00:00:02]: 		K: 	flint	 V: 	default	
+[00:00:02]: 		K: 	flower_cave	 V: 	default	
+[00:00:02]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:00:02]: 		K: 	fruitfly	 V: 	default	
+[00:00:02]: 		K: 	ghostenabled	 V: 	always	
+[00:00:02]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:02]: 		K: 	grass	 V: 	default	
+[00:00:02]: 		K: 	grassgekkos	 V: 	default	
+[00:00:02]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:02]: 		K: 	healthpenalty	 V: 	none	
+[00:00:02]: 		K: 	hunger	 V: 	nonlethal	
+[00:00:02]: 		K: 	krampus	 V: 	default	
+[00:00:02]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:02]: 		K: 	lessdamagetaken	 V: 	always	
+[00:00:02]: 		K: 	lichen	 V: 	default	
+[00:00:02]: 		K: 	liefs	 V: 	default	
+[00:00:02]: 		K: 	lightflier_flower_regrowth	 V: 	default	
+[00:00:02]: 		K: 	lightfliers	 V: 	default	
+[00:00:02]: 		K: 	loop	 V: 	default	
+[00:00:02]: 		K: 	marshbush	 V: 	default	
+[00:00:02]: 		K: 	merms	 V: 	default	
+[00:00:02]: 		K: 	molebats	 V: 	default	
+[00:00:02]: 		K: 	moles_setting	 V: 	default	
+[00:00:02]: 		K: 	monkey	 V: 	default	
+[00:00:02]: 		K: 	monkey_setting	 V: 	default	
+[00:00:02]: 		K: 	mushgnome	 V: 	default	
+[00:00:02]: 		K: 	mushroom	 V: 	default	
+[00:00:02]: 		K: 	mushtree	 V: 	default	
+[00:00:02]: 		K: 	mushtree_moon_regrowth	 V: 	default	
+[00:00:02]: 		K: 	mushtree_regrowth	 V: 	default	
+[00:00:02]: 		K: 	nightmarecreatures	 V: 	default	
+[00:00:02]: 		K: 	pigs_setting	 V: 	default	
+[00:00:02]: 		K: 	portalresurection	 V: 	always	
+[00:00:02]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:02]: 		K: 	reeds	 V: 	default	
+[00:00:02]: 		K: 	regrowth	 V: 	default	
+[00:00:02]: 		K: 	resettime	 V: 	none	
+[00:00:02]: 		K: 	rifts_enabled_cave	 V: 	default	
+[00:00:02]: 		K: 	rifts_frequency_cave	 V: 	default	
+[00:00:02]: 		K: 	roads	 V: 	never	
+[00:00:02]: 		K: 	rock	 V: 	default	
+[00:00:02]: 		K: 	rocky	 V: 	default	
+[00:00:02]: 		K: 	rocky_setting	 V: 	default	
+[00:00:02]: 		K: 	sapling	 V: 	default	
+[00:00:02]: 		K: 	season_start	 V: 	default	
+[00:00:02]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:02]: 		K: 	shadowcreatures	 V: 	rare	
+[00:00:02]: 		K: 	slurper	 V: 	default	
+[00:00:02]: 		K: 	slurtles	 V: 	default	
+[00:00:02]: 		K: 	slurtles_setting	 V: 	default	
+[00:00:02]: 		K: 	snurtles	 V: 	default	
+[00:00:02]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:02]: 		K: 	spawnprotection	 V: 	default	
+[00:00:02]: 		K: 	specialevent	 V: 	default	
+[00:00:02]: 		K: 	spider_dropper	 V: 	default	
+[00:00:02]: 		K: 	spider_hider	 V: 	default	
+[00:00:02]: 		K: 	spider_spitter	 V: 	default	
+[00:00:02]: 		K: 	spider_warriors	 V: 	default	
+[00:00:02]: 		K: 	spiderqueen	 V: 	default	
+[00:00:02]: 		K: 	spiders	 V: 	default	
+[00:00:02]: 		K: 	spiders_setting	 V: 	default	
+[00:00:02]: 		K: 	start_location	 V: 	caves	
+[00:00:02]: 		K: 	task_set	 V: 	cave_default	
+[00:00:02]: 		K: 	temperaturedamage	 V: 	nonlethal	
+[00:00:02]: 		K: 	tentacles	 V: 	default	
+[00:00:02]: 		K: 	toadstool	 V: 	default	
+[00:00:02]: 		K: 	touchstone	 V: 	default	
+[00:00:02]: 		K: 	trees	 V: 	default	
+[00:00:02]: 		K: 	weather	 V: 	default	
+[00:00:02]: 		K: 	winters_feast	 V: 	default	
+[00:00:02]: 		K: 	world_size	 V: 	default	
+[00:00:02]: 		K: 	wormattacks	 V: 	default	
+[00:00:02]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:02]: 		K: 	wormlights	 V: 	default	
+[00:00:02]: 		K: 	worms	 V: 	default	
+[00:00:02]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:02]: 		K: 	year_of_the_bunnyman	 V: 	default	
+[00:00:02]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:02]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:02]: 		K: 	year_of_the_dragonfly	 V: 	default	
+[00:00:02]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:02]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:02]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:02]: 	K: 	required_prefabs	 V: 	table: 0xb804fd0	
+[00:00:02]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:02]: 	K: 	settings_desc	 V: 	Delve into the caves... together!	
+[00:00:02]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:00:02]: 	K: 	settings_name	 V: 	The Caves	
+[00:00:02]: 	K: 	substitutes	 V: 	table: 0xb805e40	
+[00:00:02]: 	K: 	version	 V: 	4	
+[00:00:02]: 	K: 	worldgen_desc	 V: 	Delve into the caves... together!	
+[00:00:02]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:00:02]: 	K: 	worldgen_name	 V: 	The Caves	
+[00:00:02]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:02]: Overwriting savedata with level data file.	
+[00:00:02]: Not applying world gen overrides.	
+[00:00:02]: Collecting garbage...
+[00:00:02]: lua_gc took 0.06 seconds
+[00:00:02]: ~ShardLuaProxy()
+[00:00:02]: ~cEventLeaderboardProxy()
+[00:00:02]: ~ItemServerLuaProxy()
+[00:00:02]: ~InventoryLuaProxy()
+[00:00:02]: ~NetworkLuaProxy()
+[00:00:02]: ~SimLuaProxy()
+[00:00:02]: lua_close took 0.05 seconds
+[00:00:02]: ReleaseAll
+[00:00:02]: ReleaseAll Finished
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: AppVersion::GetArchitecture() x64
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:03]:   taskgrouplist:	default	Together	
+[00:00:03]:   taskgrouplist:	classic	Classic	
+[00:00:03]:   taskgrouplist:	cave_default	Underground	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:03]: Running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: SUCCESS: Loaded modoverrides.lua	
+[00:00:03]: modoverrides.lua enabling workshop-2287303119	
+[00:00:03]: modoverrides.lua enabling workshop-378160973	
+[00:00:03]: modoverrides.lua enabling workshop-706633455	
+[00:00:03]: modoverrides.lua enabling workshop-569043634	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-706633455	
+[00:00:03]: Loading mod: workshop-706633455 (Ghost speedup) Version:0.3	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:03]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.3	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:03]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:03]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:03]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:03]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option Show_range with value false	
+[00:00:03]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
+[00:00:03]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:03]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option Show_naughtiness with value false	
+[00:00:03]: Overriding mod workshop-2287303119's option show_fueled with value 3	
+[00:00:03]: Overriding mod workshop-2287303119's option show_fuel with value true	
+[00:00:03]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:03]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option lang with value auto	
+[00:00:03]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:03]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-706633455	
+[00:00:03]: Overriding mod workshop-706633455's option speedmultiplier with value 2	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
+[00:00:03]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
+[00:00:03]: Overriding mod workshop-569043634's option campfire with value Enabled	
+[00:00:03]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option skeleton with value Enabled	
+[00:00:03]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option reviver with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option coldfire with value Enabled	
+[00:00:03]: Overriding mod workshop-569043634's option SpawnProtection with value Enabled	
+[00:00:03]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option firepit with value Enabled	
+[00:00:03]: Overriding mod workshop-569043634's option usetags with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
+[00:00:03]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
+[00:00:03]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:03]: ShowMe version:	0.59.9.3	
+[00:00:03]: show_food_units	-1	-1	-1	
+[00:00:03]: show_uses	-1	-1	-1	
+[00:00:03]: Detected language for ShowMe: 	auto		
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-706633455 (Ghost speedup)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-706633455 (Ghost speedup)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-706633455 (Ghost speedup)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering Server mod namespace "showmeshint"
+[00:00:03]: Registering Server mod namespace "workshop-378160973"
+[00:00:03]: Registering Server mod namespace "showme"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: ConsoleScreenSettings could not load consolescreen	
+[00:00:03]: bloom_enabled	true	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Loading world: session/13647C49E165F770/0000000006	
+[00:00:03]: Save file is at version 5.146	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:03]: 	Unload FE	
+[00:00:03]: 	Unload FE done	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-706633455 (Ghost speedup)	Registering prefabs	
+[00:00:03]: Mod: workshop-706633455 (Ghost speedup)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:03]: 	LOAD BE	
+[00:00:08]: Could not preload undefined prefab (brokenwall_scrap)
+[00:00:08]: 	LOAD BE: done	
+[00:00:08]: Begin Session: 13647C49E165F770
+[00:00:08]: saving to server_temp/server_save	
+[00:00:08]: OVERRIDE: setting	healthpenalty	to	none	
+[00:00:08]: OVERRIDE: setting	shadowcreatures	to	rare	
+[00:00:08]: OVERRIDE: setting	darkness	to	nonlethal	
+[00:00:08]: OVERRIDE: setting	hunger	to	nonlethal	
+[00:00:08]: OVERRIDE: setting	temperaturedamage	to	nonlethal	
+[00:00:08]: OVERRIDE: setting	brightmarecreatures	to	rare	
+[00:00:08]: OVERRIDE: setting	acidrain_enabled	to	always	
+[00:00:08]: OVERRIDE: setting	lessdamagetaken	to	always	
+[00:00:08]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:00:08]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:00:08]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:08]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:08]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:08]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:08]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:08]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:08]: Loading 19 new character(s)	
+[00:00:08]: Total 19 character(s) loaded	
+[00:00:10]: Loading Nav Grid	
+[00:00:10]: World generated on build 605310 with save version: 5.146, using seed: 1385026809	
+[00:00:10]: setting 	summerlength	15	
+[00:00:10]: setting 	cavemoonphase	quarter	
+[00:00:10]: setting 	iscavefullmoon	false	
+[00:00:10]: setting 	isnightmaredawn	false	
+[00:00:10]: setting 	elapseddaysinseason	2	
+[00:00:10]: setting 	isfullmoon	false	
+[00:00:10]: setting 	moisture	250.54748535156	
+[00:00:10]: setting 	springlength	20	
+[00:00:10]: setting 	islunarhailing	false	
+[00:00:10]: setting 	isnightmarewild	false	
+[00:00:10]: setting 	nightmaretimeinphase	0.4579352116926	
+[00:00:10]: setting 	precipitationrate	0	
+[00:00:10]: setting 	iswet	false	
+[00:00:10]: setting 	isnewmoon	false	
+[00:00:10]: setting 	israining	false	
+[00:00:10]: setting 	iswinter	false	
+[00:00:10]: setting 	isnightmarewarn	false	
+[00:00:10]: setting 	precipitation	none	
+[00:00:10]: setting 	iscavewaxingmoon	true	
+[00:00:10]: setting 	isacidraining	false	
+[00:00:10]: setting 	moonphase	new	
+[00:00:10]: setting 	remainingdaysinseason	18	
+[00:00:10]: setting 	temperature	18.24237231263	
+[00:00:10]: setting 	wetness	0	
+[00:00:10]: setting 	cycles	2	
+[00:00:10]: setting 	moistureceil	874.96575927734	
+[00:00:10]: setting 	isday	false	
+[00:00:10]: setting 	winterlength	15	
+[00:00:10]: setting 	season	autumn	
+[00:00:10]: setting 	iswaxingmoon	true	
+[00:00:10]: setting 	isalterawake	false	
+[00:00:10]: setting 	isnightmarecalm	true	
+[00:00:10]: setting 	isnight	true	
+[00:00:10]: setting 	isdusk	false	
+[00:00:10]: setting 	isspring	false	
+[00:00:10]: setting 	isautumn	true	
+[00:00:10]: setting 	iscaveday	true	
+[00:00:10]: setting 	lunarhaillevel	0	
+[00:00:10]: setting 	pop	0.28635118882652	
+[00:00:10]: setting 	snowlevel	0	
+[00:00:10]: setting 	issnowcovered	false	
+[00:00:10]: setting 	autumnlength	20	
+[00:00:10]: setting 	phase	night	
+[00:00:10]: setting 	nightmaretime	164.85667620934	
+[00:00:10]: setting 	issnowing	false	
+[00:00:10]: setting 	iscavedusk	false	
+[00:00:10]: setting 	nightmarephase	calm	
+[00:00:10]: setting 	timeinphase	0.14543011983236	
+[00:00:10]: setting 	seasonprogress	0.55	
+[00:00:10]: setting 	iscavenight	false	
+[00:00:10]: setting 	iscavenewmoon	false	
+[00:00:10]: setting 	issummer	false	
+[00:00:10]: setting 	cavephase	day	
+[00:00:10]: setting 	time	0.072715059916178	
+[00:00:10]: [Shard] Secondary shard is waiting for LUA...
+[00:00:10]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:10]: OVERRIDE: setting	resettime	to	none	
+[00:00:10]: OVERRIDE: setting	basicresource_regrowth	to	none	
+[00:00:10]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:10]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:10]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:11]: Reconstructing topology	
+[00:00:11]: 	...Sorting points	
+[00:00:11]: 	...Sorting edges	
+[00:00:11]: 	...Connecting nodes	
+[00:00:11]: 	...Validating connections	
+[00:00:11]: 	...Housekeeping	
+[00:00:11]: 	...Done!	
+[00:00:11]: 1 uploads added to server. From server_temp
+[00:00:11]: About to start a shard with these settings:
+[00:00:11]:   ShardName: Caves
+[00:00:11]:   ShardID: 2198109002
+[00:00:11]:   ShardRole: SECONDARY
+[00:00:11]:   MasterHost: 127.0.0.1
+[00:00:11]:   MasterBind: (null)
+[00:00:11]:   MasterPort: 10888
+[00:00:11]: [Shard] Connecting to master...
+[00:00:11]: Telling Client our new session identifier: 13647C49E165F770
 [00:00:11]: Check for write access: TRUE
 [00:00:11]: Check for read access: TRUE
-[00:00:11]: Available disk space for save files: 6323 MB
+[00:00:11]: Available disk space for save files: 125829 MB
 [00:00:11]: ModIndex: Load sequence finished successfully.	
 [00:00:11]: Reset() returning
-[00:00:11]: [IPC] Signal 'DST_Secondary_Kill' opened  #00000000000009F8
-[00:00:11]: [IPC] Registering handler for signal #00000000000009F8
-[00:00:11]: [IPC] Handle #00000000000009F8 added to the Eventhandles
-[00:00:11]: [IPC] Signal 'DST_Secondary_ShutdownNoSave' opened  #00000000000009E8
-[00:00:11]: [IPC] Registering handler for signal #00000000000009E8
-[00:00:11]: [IPC] Handle #00000000000009E8 added to the Eventhandles
-[00:00:11]: [IPC] Signal 'DST_Secondary_Starting' opened  #00000000000007C0
-[00:00:11]: [IPC] Sending signal... #00000000000007C0
-[00:00:12]: [200] Account Communication Success (6)
-[00:00:12]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/347240807/Cluster_2/Caves/save/cached_userid
-[00:00:12]: Received (KU_08rWyoX7) from TokenPurpose
-[00:00:12]: Starting Dedicated Server Game	
-[00:00:12]: Network tick rate: U=15(2), D=0
-[00:00:12]: About to start a server with the following settings:
-[00:00:12]:   Dedicated: true
-[00:00:12]:   Online: true
-[00:00:12]:   Passworded: false
-[00:00:12]:   ServerPort: 10998
-[00:00:12]:   SteamAuthPort: 8767
-[00:00:12]:   SteamMasterServerPort: 27017
-[00:00:12]:   ClanID: false
-[00:00:12]:   ClanOnly: false
-[00:00:12]:   ClanAdmin: false
-[00:00:12]:   LanOnly: false
-[00:00:12]:   FriendsOnly: true
-[00:00:12]:   EnableAutosaver: true
-[00:00:12]:   EncodeUserPath: true
-[00:00:12]:   PVP: false
-[00:00:12]:   MaxPlayers: 6
-[00:00:12]:   GameMode: survival
-[00:00:12]:   OverridenDNS: 
-[00:00:12]:   PauseWhenEmpty: true
-[00:00:12]:   IdleTimeout: 1800s
-[00:00:12]:   VoteEnabled: false
-[00:00:12]:   InternetBroadcasting: true
-[00:00:12]: [Warning] Could not confirm port 10998 is open in the firewall. 
-[00:00:12]: [Shard] No shard id specified, generating a random one...
-[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-706633455	
-[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-569043634	
-[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
-[00:00:12]: Online Server Started on port: 10998
-[00:00:12]: SUCCESS: Loaded modoverrides.lua	
-[00:00:12]: Found a level data override file with these contents:	
-[00:00:12]: 	K: 	background_node_range	 V: 	table: 00000000165B3450	
-[00:00:12]: 		K: 	1	 V: 	0	
-[00:00:12]: 		K: 	2	 V: 	1	
-[00:00:12]: 	K: 	desc	 V: 	探查洞穴…… 一起！	
-[00:00:12]: 	K: 	hideminimap	 V: 	false	
-[00:00:12]: 	K: 	id	 V: 	DST_CAVE	
-[00:00:12]: 	K: 	location	 V: 	cave	
-[00:00:12]: 	K: 	max_playlist_position	 V: 	999	
-[00:00:12]: 	K: 	min_playlist_position	 V: 	0	
-[00:00:12]: 	K: 	name	 V: 	洞穴	
-[00:00:12]: 	K: 	numrandom_set_pieces	 V: 	0	
-[00:00:12]: 	K: 	override_level_string	 V: 	false	
-[00:00:12]: 	K: 	overrides	 V: 	table: 00000000165B2F50	
-[00:00:12]: 		K: 	acidrain_enabled	 V: 	always	
-[00:00:12]: 		K: 	atriumgate	 V: 	default	
-[00:00:12]: 		K: 	banana	 V: 	default	
-[00:00:12]: 		K: 	basicresource_regrowth	 V: 	none	
-[00:00:12]: 		K: 	bats	 V: 	default	
-[00:00:12]: 		K: 	bats_setting	 V: 	default	
-[00:00:12]: 		K: 	beefaloheat	 V: 	default	
-[00:00:12]: 		K: 	berrybush	 V: 	default	
-[00:00:12]: 		K: 	boons	 V: 	default	
-[00:00:12]: 		K: 	branching	 V: 	default	
-[00:00:12]: 		K: 	brightmarecreatures	 V: 	rare	
-[00:00:12]: 		K: 	bunnymen	 V: 	default	
-[00:00:12]: 		K: 	bunnymen_setting	 V: 	default	
-[00:00:12]: 		K: 	cave_ponds	 V: 	default	
-[00:00:12]: 		K: 	cave_spiders	 V: 	default	
-[00:00:12]: 		K: 	cavelight	 V: 	default	
-[00:00:12]: 		K: 	chess	 V: 	default	
-[00:00:12]: 		K: 	crow_carnival	 V: 	default	
-[00:00:12]: 		K: 	darkness	 V: 	nonlethal	
-[00:00:12]: 		K: 	day	 V: 	default	
-[00:00:12]: 		K: 	daywalker	 V: 	default	
-[00:00:12]: 		K: 	dropeverythingondespawn	 V: 	default	
-[00:00:12]: 		K: 	dustmoths	 V: 	default	
-[00:00:12]: 		K: 	earthquakes	 V: 	default	
-[00:00:12]: 		K: 	extrastartingitems	 V: 	default	
-[00:00:12]: 		K: 	fern	 V: 	default	
-[00:00:12]: 		K: 	fissure	 V: 	default	
-[00:00:12]: 		K: 	flint	 V: 	default	
-[00:00:12]: 		K: 	flower_cave	 V: 	default	
-[00:00:12]: 		K: 	flower_cave_regrowth	 V: 	default	
-[00:00:12]: 		K: 	fruitfly	 V: 	default	
-[00:00:12]: 		K: 	ghostenabled	 V: 	always	
-[00:00:12]: 		K: 	ghostsanitydrain	 V: 	none	
-[00:00:12]: 		K: 	grass	 V: 	default	
-[00:00:12]: 		K: 	grassgekkos	 V: 	default	
-[00:00:12]: 		K: 	hallowed_nights	 V: 	default	
-[00:00:12]: 		K: 	healthpenalty	 V: 	none	
-[00:00:12]: 		K: 	hunger	 V: 	nonlethal	
-[00:00:12]: 		K: 	krampus	 V: 	default	
-[00:00:12]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
-[00:00:12]: 		K: 	lessdamagetaken	 V: 	always	
-[00:00:12]: 		K: 	lichen	 V: 	default	
-[00:00:12]: 		K: 	liefs	 V: 	default	
-[00:00:12]: 		K: 	lightflier_flower_regrowth	 V: 	default	
-[00:00:12]: 		K: 	lightfliers	 V: 	default	
-[00:00:12]: 		K: 	loop	 V: 	default	
-[00:00:12]: 		K: 	marshbush	 V: 	default	
-[00:00:12]: 		K: 	merms	 V: 	default	
-[00:00:12]: 		K: 	molebats	 V: 	default	
-[00:00:12]: 		K: 	moles_setting	 V: 	default	
-[00:00:12]: 		K: 	monkey	 V: 	default	
-[00:00:12]: 		K: 	monkey_setting	 V: 	default	
-[00:00:12]: 		K: 	mushgnome	 V: 	default	
-[00:00:12]: 		K: 	mushroom	 V: 	default	
-[00:00:12]: 		K: 	mushtree	 V: 	default	
-[00:00:12]: 		K: 	mushtree_moon_regrowth	 V: 	default	
-[00:00:12]: 		K: 	mushtree_regrowth	 V: 	default	
-[00:00:12]: 		K: 	nightmarecreatures	 V: 	default	
-[00:00:12]: 		K: 	pigs_setting	 V: 	default	
-[00:00:12]: 		K: 	portalresurection	 V: 	always	
-[00:00:12]: 		K: 	prefabswaps_start	 V: 	default	
-[00:00:12]: 		K: 	reeds	 V: 	default	
-[00:00:12]: 		K: 	regrowth	 V: 	default	
-[00:00:12]: 		K: 	resettime	 V: 	none	
-[00:00:12]: 		K: 	rifts_enabled_cave	 V: 	default	
-[00:00:12]: 		K: 	rifts_frequency_cave	 V: 	default	
-[00:00:12]: 		K: 	roads	 V: 	never	
-[00:00:12]: 		K: 	rock	 V: 	default	
-[00:00:12]: 		K: 	rocky	 V: 	default	
-[00:00:12]: 		K: 	rocky_setting	 V: 	default	
-[00:00:12]: 		K: 	sapling	 V: 	default	
-[00:00:12]: 		K: 	season_start	 V: 	default	
-[00:00:12]: 		K: 	seasonalstartingitems	 V: 	default	
-[00:00:12]: 		K: 	shadowcreatures	 V: 	rare	
-[00:00:12]: 		K: 	slurper	 V: 	default	
-[00:00:12]: 		K: 	slurtles	 V: 	default	
-[00:00:12]: 		K: 	slurtles_setting	 V: 	default	
-[00:00:12]: 		K: 	snurtles	 V: 	default	
-[00:00:12]: 		K: 	spawnmode	 V: 	fixed	
-[00:00:12]: 		K: 	spawnprotection	 V: 	default	
-[00:00:12]: 		K: 	specialevent	 V: 	default	
-[00:00:12]: 		K: 	spider_dropper	 V: 	default	
-[00:00:12]: 		K: 	spider_hider	 V: 	default	
-[00:00:12]: 		K: 	spider_spitter	 V: 	default	
-[00:00:12]: 		K: 	spider_warriors	 V: 	default	
-[00:00:12]: 		K: 	spiderqueen	 V: 	default	
-[00:00:12]: 		K: 	spiders	 V: 	default	
-[00:00:12]: 		K: 	spiders_setting	 V: 	default	
-[00:00:12]: 		K: 	start_location	 V: 	caves	
-[00:00:12]: 		K: 	task_set	 V: 	cave_default	
-[00:00:12]: 		K: 	temperaturedamage	 V: 	nonlethal	
-[00:00:12]: 		K: 	tentacles	 V: 	default	
-[00:00:12]: 		K: 	toadstool	 V: 	default	
-[00:00:12]: 		K: 	touchstone	 V: 	default	
-[00:00:12]: 		K: 	trees	 V: 	default	
-[00:00:12]: 		K: 	weather	 V: 	default	
-[00:00:12]: 		K: 	winters_feast	 V: 	default	
-[00:00:12]: 		K: 	world_size	 V: 	default	
-[00:00:12]: 		K: 	wormattacks	 V: 	default	
-[00:00:12]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
-[00:00:12]: 		K: 	wormlights	 V: 	default	
-[00:00:12]: 		K: 	worms	 V: 	default	
-[00:00:12]: 		K: 	year_of_the_beefalo	 V: 	default	
-[00:00:12]: 		K: 	year_of_the_bunnyman	 V: 	default	
-[00:00:12]: 		K: 	year_of_the_carrat	 V: 	default	
-[00:00:12]: 		K: 	year_of_the_catcoon	 V: 	default	
-[00:00:12]: 		K: 	year_of_the_dragonfly	 V: 	default	
-[00:00:12]: 		K: 	year_of_the_gobbler	 V: 	default	
-[00:00:12]: 		K: 	year_of_the_pig	 V: 	default	
-[00:00:12]: 		K: 	year_of_the_varg	 V: 	default	
-[00:00:12]: 	K: 	required_prefabs	 V: 	table: 00000000165B2FA0	
-[00:00:12]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:12]: 	K: 	settings_desc	 V: 	探查洞穴…… 一起！	
-[00:00:12]: 	K: 	settings_id	 V: 	DST_CAVE	
-[00:00:12]: 	K: 	settings_name	 V: 	洞穴	
-[00:00:12]: 	K: 	substitutes	 V: 	table: 00000000165B3040	
-[00:00:12]: 	K: 	version	 V: 	4	
-[00:00:12]: 	K: 	worldgen_desc	 V: 	探查洞穴…… 一起！	
-[00:00:12]: 	K: 	worldgen_id	 V: 	DST_CAVE	
-[00:00:12]: 	K: 	worldgen_name	 V: 	洞穴	
-[00:00:12]: Loaded and applied level data override from ../leveldataoverride.lua	
-[00:00:12]: Overwriting savedata with level data file.	
-[00:00:12]: Not applying world gen overrides.	
-[00:00:12]: Collecting garbage...
-[00:00:12]: lua_gc took 0.11 seconds
-[00:00:12]: ~ShardLuaProxy()
-[00:00:12]: ~cEventLeaderboardProxy()
-[00:00:12]: ~ItemServerLuaProxy()
-[00:00:12]: ~InventoryLuaProxy()
-[00:00:12]: ~NetworkLuaProxy()
-[00:00:12]: ~SimLuaProxy()
-[00:00:12]: FilesExistAsyncThread aborted.
-[00:00:12]: ... FilesExistAsyncThread complete
-[00:00:12]: lua_close took 0.15 seconds
-[00:00:12]: ReleaseAll
-[00:00:12]: ReleaseAll Finished
-[00:00:12]: cGame::StartPlaying
-[00:00:12]: AppVersion::GetArchitecture() x64
-[00:00:12]: LOADING LUA
-[00:00:12]: DoLuaFile scripts/main.lua
-[00:00:12]: DoLuaFile loading buffer scripts/main.lua
-[00:00:12]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
-[00:00:16]:   taskgrouplist:	default	联机版	
-[00:00:16]:   taskgrouplist:	classic	经典	
-[00:00:16]:   taskgrouplist:	cave_default	地下	
-[00:00:16]:   taskgrouplist:	lavaarena_taskset	熔炉	
-[00:00:16]:   taskgrouplist:	quagmire_taskset	暴食	
-[00:00:16]: Running main.lua
-	
-[00:00:16]: loaded modindex	
-[00:00:16]: ModIndex: Beginning normal load sequence for dedicated server.
-	
-[00:00:16]: SUCCESS: Loaded modoverrides.lua	
-[00:00:16]: modoverrides.lua enabling workshop-2287303119	
-[00:00:16]: modoverrides.lua enabling workshop-378160973	
-[00:00:16]: modoverrides.lua enabling workshop-706633455	
-[00:00:16]: modoverrides.lua enabling workshop-569043634	
-[00:00:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
-[00:00:16]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
-[00:00:16]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
-[00:00:16]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
-[00:00:16]: Could not load mod_config_data/modconfiguration_workshop-706633455	
-[00:00:16]: Loading mod: workshop-706633455 (Ghost speedup) Version:0.3	
-[00:00:16]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
-[00:00:16]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.3	
-[00:00:16]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:16]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
-[00:00:16]: Could not load mod_config_data/modconfiguration_workshop-569043634	
-[00:00:16]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
-[00:00:16]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
-[00:00:16]: Overriding mod workshop-2287303119's option  with value 0	
-[00:00:16]: Overriding mod workshop-2287303119's option  with value 0	
-[00:00:16]: Overriding mod workshop-2287303119's option chestR with value -1	
-[00:00:16]: Overriding mod workshop-2287303119's option food_style with value 0	
-[00:00:16]: Overriding mod workshop-2287303119's option display_hp with value 1	
-[00:00:16]: Overriding mod workshop-2287303119's option food_order with value 0	
-[00:00:16]: Overriding mod workshop-2287303119's option chestG with value -1	
-[00:00:16]: Overriding mod workshop-2287303119's option Show_range with value false	
-[00:00:16]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
-[00:00:16]: Overriding mod workshop-2287303119's option T_crop with value true	
-[00:00:16]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
-[00:00:16]: Overriding mod workshop-2287303119's option show_uses with value -1	
-[00:00:16]: Overriding mod workshop-2287303119's option food_estimation with value -1	
-[00:00:16]: Overriding mod workshop-2287303119's option Show_naughtiness with value false	
-[00:00:16]: Overriding mod workshop-2287303119's option show_fueled with value 3	
-[00:00:16]: Overriding mod workshop-2287303119's option show_fuel with value true	
-[00:00:16]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
-[00:00:16]: Overriding mod workshop-2287303119's option chestB with value -1	
-[00:00:16]: Overriding mod workshop-2287303119's option show_food_units with value -1	
-[00:00:16]: Overriding mod workshop-2287303119's option lang with value auto	
-[00:00:16]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
-[00:00:16]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:16]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:16]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:16]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
-[00:00:16]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:16]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:16]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:16]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:16]: applying configuration_options from modoverrides.lua to mod workshop-706633455	
-[00:00:16]: Overriding mod workshop-706633455's option speedmultiplier with value 2	
-[00:00:16]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
-[00:00:16]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
-[00:00:16]: Overriding mod workshop-569043634's option campfire with value Enabled	
-[00:00:16]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option skeleton with value Enabled	
-[00:00:16]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option reviver with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option coldfire with value Enabled	
-[00:00:16]: Overriding mod workshop-569043634's option SpawnProtection with value Enabled	
-[00:00:16]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option firepit with value Enabled	
-[00:00:16]: Overriding mod workshop-569043634's option usetags with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
-[00:00:16]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
-[00:00:16]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
-[00:00:16]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
-[00:00:16]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:16]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
-[00:00:16]: ShowMe version:	0.59.9.3	
-[00:00:16]: show_food_units	-1	-1	-1	
-[00:00:16]: show_uses	-1	-1	-1	
-[00:00:16]: Detected language for ShowMe: 	auto	zh	
-[00:00:16]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
-[00:00:16]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:16]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
-[00:00:16]: Mod: workshop-706633455 (Ghost speedup)	Loading modworldgenmain.lua	
-[00:00:16]: Mod: workshop-706633455 (Ghost speedup)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:16]: Mod: workshop-706633455 (Ghost speedup)	Loading modmain.lua	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:00:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
-[00:00:16]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
-[00:00:16]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
-[00:00:16]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
-[00:00:17]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:17]: LOADING LUA SUCCESS
-[00:00:17]: Registering Server mod namespace "showmeshint"
-[00:00:17]: Registering Server mod namespace "workshop-378160973"
-[00:00:17]: Registering Server mod namespace "showme"
-[00:00:17]: PlayerDeaths could not load morgue	
-[00:00:17]: PlayerHistory could not load player_history	
-[00:00:17]: ServerPreferences could not load server_preferences	
-[00:00:17]: ConsoleScreenSettings could not load consolescreen	
-[00:00:17]: bloom_enabled	true	
-[00:00:17]: OnFilesLoaded()	
-[00:00:17]: OnUpdatePurchaseStateComplete	
-[00:00:17]: SUCCESS: Loaded modoverrides.lua	
-[00:00:17]: Found a level data override file with these contents:	
-[00:00:17]: 	K: 	background_node_range	 V: 	table: 000000001B9E6E00	
-[00:00:17]: 		K: 	1	 V: 	0	
-[00:00:17]: 		K: 	2	 V: 	1	
-[00:00:17]: 	K: 	desc	 V: 	探查洞穴…… 一起！	
-[00:00:17]: 	K: 	hideminimap	 V: 	false	
-[00:00:17]: 	K: 	id	 V: 	DST_CAVE	
-[00:00:17]: 	K: 	location	 V: 	cave	
-[00:00:17]: 	K: 	max_playlist_position	 V: 	999	
-[00:00:17]: 	K: 	min_playlist_position	 V: 	0	
-[00:00:17]: 	K: 	name	 V: 	洞穴	
-[00:00:17]: 	K: 	numrandom_set_pieces	 V: 	0	
-[00:00:17]: 	K: 	override_level_string	 V: 	false	
-[00:00:17]: 	K: 	overrides	 V: 	table: 000000001B9E76C0	
-[00:00:17]: 		K: 	acidrain_enabled	 V: 	always	
-[00:00:17]: 		K: 	atriumgate	 V: 	default	
-[00:00:17]: 		K: 	banana	 V: 	default	
-[00:00:17]: 		K: 	basicresource_regrowth	 V: 	none	
-[00:00:17]: 		K: 	bats	 V: 	default	
-[00:00:17]: 		K: 	bats_setting	 V: 	default	
-[00:00:17]: 		K: 	beefaloheat	 V: 	default	
-[00:00:17]: 		K: 	berrybush	 V: 	default	
-[00:00:17]: 		K: 	boons	 V: 	default	
-[00:00:17]: 		K: 	branching	 V: 	default	
-[00:00:17]: 		K: 	brightmarecreatures	 V: 	rare	
-[00:00:17]: 		K: 	bunnymen	 V: 	default	
-[00:00:17]: 		K: 	bunnymen_setting	 V: 	default	
-[00:00:17]: 		K: 	cave_ponds	 V: 	default	
-[00:00:17]: 		K: 	cave_spiders	 V: 	default	
-[00:00:17]: 		K: 	cavelight	 V: 	default	
-[00:00:17]: 		K: 	chess	 V: 	default	
-[00:00:17]: 		K: 	crow_carnival	 V: 	default	
-[00:00:17]: 		K: 	darkness	 V: 	nonlethal	
-[00:00:17]: 		K: 	day	 V: 	default	
-[00:00:17]: 		K: 	daywalker	 V: 	default	
-[00:00:17]: 		K: 	dropeverythingondespawn	 V: 	default	
-[00:00:17]: 		K: 	dustmoths	 V: 	default	
-[00:00:17]: 		K: 	earthquakes	 V: 	default	
-[00:00:17]: 		K: 	extrastartingitems	 V: 	default	
-[00:00:17]: 		K: 	fern	 V: 	default	
-[00:00:17]: 		K: 	fissure	 V: 	default	
-[00:00:17]: 		K: 	flint	 V: 	default	
-[00:00:17]: 		K: 	flower_cave	 V: 	default	
-[00:00:17]: 		K: 	flower_cave_regrowth	 V: 	default	
-[00:00:17]: 		K: 	fruitfly	 V: 	default	
-[00:00:17]: 		K: 	ghostenabled	 V: 	always	
-[00:00:17]: 		K: 	ghostsanitydrain	 V: 	none	
-[00:00:17]: 		K: 	grass	 V: 	default	
-[00:00:17]: 		K: 	grassgekkos	 V: 	default	
-[00:00:17]: 		K: 	hallowed_nights	 V: 	default	
-[00:00:17]: 		K: 	healthpenalty	 V: 	none	
-[00:00:17]: 		K: 	hunger	 V: 	nonlethal	
-[00:00:17]: 		K: 	krampus	 V: 	default	
-[00:00:17]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
-[00:00:17]: 		K: 	lessdamagetaken	 V: 	always	
-[00:00:17]: 		K: 	lichen	 V: 	default	
-[00:00:17]: 		K: 	liefs	 V: 	default	
-[00:00:17]: 		K: 	lightflier_flower_regrowth	 V: 	default	
-[00:00:17]: 		K: 	lightfliers	 V: 	default	
-[00:00:17]: 		K: 	loop	 V: 	default	
-[00:00:17]: 		K: 	marshbush	 V: 	default	
-[00:00:17]: 		K: 	merms	 V: 	default	
-[00:00:17]: 		K: 	molebats	 V: 	default	
-[00:00:17]: 		K: 	moles_setting	 V: 	default	
-[00:00:17]: 		K: 	monkey	 V: 	default	
-[00:00:17]: 		K: 	monkey_setting	 V: 	default	
-[00:00:17]: 		K: 	mushgnome	 V: 	default	
-[00:00:17]: 		K: 	mushroom	 V: 	default	
-[00:00:17]: 		K: 	mushtree	 V: 	default	
-[00:00:17]: 		K: 	mushtree_moon_regrowth	 V: 	default	
-[00:00:17]: 		K: 	mushtree_regrowth	 V: 	default	
-[00:00:17]: 		K: 	nightmarecreatures	 V: 	default	
-[00:00:17]: 		K: 	pigs_setting	 V: 	default	
-[00:00:17]: 		K: 	portalresurection	 V: 	always	
-[00:00:17]: 		K: 	prefabswaps_start	 V: 	default	
-[00:00:17]: 		K: 	reeds	 V: 	default	
-[00:00:17]: 		K: 	regrowth	 V: 	default	
-[00:00:17]: 		K: 	resettime	 V: 	none	
-[00:00:17]: 		K: 	rifts_enabled_cave	 V: 	default	
-[00:00:17]: 		K: 	rifts_frequency_cave	 V: 	default	
-[00:00:17]: 		K: 	roads	 V: 	never	
-[00:00:17]: 		K: 	rock	 V: 	default	
-[00:00:17]: 		K: 	rocky	 V: 	default	
-[00:00:17]: 		K: 	rocky_setting	 V: 	default	
-[00:00:17]: 		K: 	sapling	 V: 	default	
-[00:00:17]: 		K: 	season_start	 V: 	default	
-[00:00:17]: 		K: 	seasonalstartingitems	 V: 	default	
-[00:00:17]: 		K: 	shadowcreatures	 V: 	rare	
-[00:00:17]: 		K: 	slurper	 V: 	default	
-[00:00:17]: 		K: 	slurtles	 V: 	default	
-[00:00:17]: 		K: 	slurtles_setting	 V: 	default	
-[00:00:17]: 		K: 	snurtles	 V: 	default	
-[00:00:17]: 		K: 	spawnmode	 V: 	fixed	
-[00:00:17]: 		K: 	spawnprotection	 V: 	default	
-[00:00:17]: 		K: 	specialevent	 V: 	default	
-[00:00:17]: 		K: 	spider_dropper	 V: 	default	
-[00:00:17]: 		K: 	spider_hider	 V: 	default	
-[00:00:17]: 		K: 	spider_spitter	 V: 	default	
-[00:00:17]: 		K: 	spider_warriors	 V: 	default	
-[00:00:17]: 		K: 	spiderqueen	 V: 	default	
-[00:00:17]: 		K: 	spiders	 V: 	default	
-[00:00:17]: 		K: 	spiders_setting	 V: 	default	
-[00:00:17]: 		K: 	start_location	 V: 	caves	
-[00:00:17]: 		K: 	task_set	 V: 	cave_default	
-[00:00:17]: 		K: 	temperaturedamage	 V: 	nonlethal	
-[00:00:17]: 		K: 	tentacles	 V: 	default	
-[00:00:17]: 		K: 	toadstool	 V: 	default	
-[00:00:17]: 		K: 	touchstone	 V: 	default	
-[00:00:17]: 		K: 	trees	 V: 	default	
-[00:00:17]: 		K: 	weather	 V: 	default	
-[00:00:17]: 		K: 	winters_feast	 V: 	default	
-[00:00:17]: 		K: 	world_size	 V: 	default	
-[00:00:17]: 		K: 	wormattacks	 V: 	default	
-[00:00:17]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
-[00:00:17]: 		K: 	wormlights	 V: 	default	
-[00:00:17]: 		K: 	worms	 V: 	default	
-[00:00:17]: 		K: 	year_of_the_beefalo	 V: 	default	
-[00:00:17]: 		K: 	year_of_the_bunnyman	 V: 	default	
-[00:00:17]: 		K: 	year_of_the_carrat	 V: 	default	
-[00:00:17]: 		K: 	year_of_the_catcoon	 V: 	default	
-[00:00:17]: 		K: 	year_of_the_dragonfly	 V: 	default	
-[00:00:17]: 		K: 	year_of_the_gobbler	 V: 	default	
-[00:00:17]: 		K: 	year_of_the_pig	 V: 	default	
-[00:00:17]: 		K: 	year_of_the_varg	 V: 	default	
-[00:00:17]: 	K: 	required_prefabs	 V: 	table: 000000001B9E75D0	
-[00:00:17]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:17]: 	K: 	settings_desc	 V: 	探查洞穴…… 一起！	
-[00:00:17]: 	K: 	settings_id	 V: 	DST_CAVE	
-[00:00:17]: 	K: 	settings_name	 V: 	洞穴	
-[00:00:17]: 	K: 	substitutes	 V: 	table: 000000001B9E6630	
-[00:00:17]: 	K: 	version	 V: 	4	
-[00:00:17]: 	K: 	worldgen_desc	 V: 	探查洞穴…… 一起！	
-[00:00:17]: 	K: 	worldgen_id	 V: 	DST_CAVE	
-[00:00:17]: 	K: 	worldgen_name	 V: 	洞穴	
-[00:00:17]: Loaded and applied level data override from ../leveldataoverride.lua	
-[00:00:17]: Overwriting savedata with level data file.	
-[00:00:17]: Not applying world gen overrides.	
-[00:00:17]: [IPC] Signal 'DST_Secondary_WorldGen' opened  #0000000000000AC0
-[00:00:17]: [IPC] Sending signal... #0000000000000AC0
-[00:00:17]: WorldSim::SimThread::SimThread()
-[00:00:17]: ABOUT TO INSTALL STACKTRACE
-[00:00:17]: DoLuaFile scripts/stacktrace.lua
-[00:00:17]: DoLuaFile loading buffer scripts/stacktrace.lua
-[00:00:17]: INSTALLED STACKTRACE
-[00:00:17]: Engine Seed: (1715209372 + 3964784733) & 0x7FFFFFFF = 1385026809
-[00:00:17]: WorldSim::SimThread::SimThread() complete
-[00:00:17]: THREAD - started 'WorldSim' (7596)
-[00:00:17]: WorldSim::SimThread::Main()
-[00:00:17]: DoLuaFile scripts/worldgen_main.lua
-[00:00:17]: DoLuaFile loading buffer scripts/worldgen_main.lua
-[00:00:17]: Check for write access: TRUE
-[00:00:17]: Check for read access: TRUE
-[00:00:17]: Available disk space for save files: 6323 MB
-[00:00:17]: ModIndex: Load sequence finished successfully.	
-[00:00:17]: Reset() returning
-[00:00:17]: DLC enabled : 	false	
-[00:00:18]:   taskgrouplist:	default	Together	
-[00:00:18]:   taskgrouplist:	classic	Classic	
-[00:00:18]:   taskgrouplist:	cave_default	Underground	
-[00:00:18]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:18]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:18]: ModIndex:GetModsToLoad inserting modname, 	workshop-706633455	
-[00:00:18]: ModIndex:GetModsToLoad inserting modname, 	workshop-378160973	
-[00:00:18]: ModIndex:GetModsToLoad inserting modname, 	workshop-2287303119	
-[00:00:18]: ModIndex:GetModsToLoad inserting modname, 	workshop-569043634	
-[00:00:18]: Loading mod: workshop-706633455 (Ghost speedup) Version:0.3	
-[00:00:18]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
-[00:00:18]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.3	
-[00:00:18]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
-[00:00:18]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
-[00:00:18]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:18]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
-[00:00:18]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:18]: Mod: workshop-706633455 (Ghost speedup)	Loading modworldgenmain.lua	
-[00:00:18]: Mod: workshop-706633455 (Ghost speedup)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:18]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:18]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:18]: running worldgen_main.lua
-	
-[00:00:18]: SEED = 	1385026809	
-[00:00:18]: Generating world with these parameters:	
-[00:00:18]: level_type	SURVIVAL	
-[00:00:18]: level_data:	
-[00:00:18]: 	K: 	background_node_range	 V: 	table: 0000000008380F00	
-[00:00:18]: 		K: 	1	 V: 	0	
-[00:00:18]: 		K: 	2	 V: 	1	
-[00:00:18]: 	K: 	desc	 V: 	探查洞穴…… 一起！	
-[00:00:18]: 	K: 	hideminimap	 V: 	false	
-[00:00:18]: 	K: 	id	 V: 	DST_CAVE	
-[00:00:18]: 	K: 	location	 V: 	cave	
-[00:00:18]: 	K: 	max_playlist_position	 V: 	999	
-[00:00:18]: 	K: 	min_playlist_position	 V: 	0	
-[00:00:18]: 	K: 	name	 V: 	洞穴	
-[00:00:18]: 	K: 	numrandom_set_pieces	 V: 	0	
-[00:00:18]: 	K: 	override_level_string	 V: 	false	
-[00:00:18]: 	K: 	overrides	 V: 	table: 0000000008381C20	
-[00:00:18]: 		K: 	acidrain_enabled	 V: 	always	
-[00:00:18]: 		K: 	atriumgate	 V: 	default	
-[00:00:18]: 		K: 	banana	 V: 	default	
-[00:00:18]: 		K: 	basicresource_regrowth	 V: 	none	
-[00:00:18]: 		K: 	bats	 V: 	default	
-[00:00:18]: 		K: 	bats_setting	 V: 	default	
-[00:00:18]: 		K: 	beefaloheat	 V: 	default	
-[00:00:18]: 		K: 	berrybush	 V: 	default	
-[00:00:18]: 		K: 	boons	 V: 	default	
-[00:00:18]: 		K: 	branching	 V: 	default	
-[00:00:18]: 		K: 	brightmarecreatures	 V: 	rare	
-[00:00:18]: 		K: 	bunnymen	 V: 	default	
-[00:00:18]: 		K: 	bunnymen_setting	 V: 	default	
-[00:00:18]: 		K: 	cave_ponds	 V: 	default	
-[00:00:18]: 		K: 	cave_spiders	 V: 	default	
-[00:00:18]: 		K: 	cavelight	 V: 	default	
-[00:00:18]: 		K: 	chess	 V: 	default	
-[00:00:18]: 		K: 	crow_carnival	 V: 	default	
-[00:00:18]: 		K: 	darkness	 V: 	nonlethal	
-[00:00:18]: 		K: 	day	 V: 	default	
-[00:00:18]: 		K: 	daywalker	 V: 	default	
-[00:00:18]: 		K: 	dropeverythingondespawn	 V: 	default	
-[00:00:18]: 		K: 	dustmoths	 V: 	default	
-[00:00:18]: 		K: 	earthquakes	 V: 	default	
-[00:00:18]: 		K: 	extrastartingitems	 V: 	default	
-[00:00:18]: 		K: 	fern	 V: 	default	
-[00:00:18]: 		K: 	fissure	 V: 	default	
-[00:00:18]: 		K: 	flint	 V: 	default	
-[00:00:18]: 		K: 	flower_cave	 V: 	default	
-[00:00:18]: 		K: 	flower_cave_regrowth	 V: 	default	
-[00:00:18]: 		K: 	fruitfly	 V: 	default	
-[00:00:18]: 		K: 	ghostenabled	 V: 	always	
-[00:00:18]: 		K: 	ghostsanitydrain	 V: 	none	
-[00:00:18]: 		K: 	grass	 V: 	default	
-[00:00:18]: 		K: 	grassgekkos	 V: 	default	
-[00:00:18]: 		K: 	hallowed_nights	 V: 	default	
-[00:00:18]: 		K: 	healthpenalty	 V: 	none	
-[00:00:18]: 		K: 	hunger	 V: 	nonlethal	
-[00:00:18]: 		K: 	krampus	 V: 	default	
-[00:00:18]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
-[00:00:18]: 		K: 	lessdamagetaken	 V: 	always	
-[00:00:18]: 		K: 	lichen	 V: 	default	
-[00:00:18]: 		K: 	liefs	 V: 	default	
-[00:00:18]: 		K: 	lightflier_flower_regrowth	 V: 	default	
-[00:00:18]: 		K: 	lightfliers	 V: 	default	
-[00:00:18]: 		K: 	loop	 V: 	default	
-[00:00:18]: 		K: 	marshbush	 V: 	default	
-[00:00:18]: 		K: 	merms	 V: 	default	
-[00:00:18]: 		K: 	molebats	 V: 	default	
-[00:00:18]: 		K: 	moles_setting	 V: 	default	
-[00:00:18]: 		K: 	monkey	 V: 	default	
-[00:00:18]: 		K: 	monkey_setting	 V: 	default	
-[00:00:18]: 		K: 	mushgnome	 V: 	default	
-[00:00:18]: 		K: 	mushroom	 V: 	default	
-[00:00:18]: 		K: 	mushtree	 V: 	default	
-[00:00:18]: 		K: 	mushtree_moon_regrowth	 V: 	default	
-[00:00:18]: 		K: 	mushtree_regrowth	 V: 	default	
-[00:00:18]: 		K: 	nightmarecreatures	 V: 	default	
-[00:00:18]: 		K: 	pigs_setting	 V: 	default	
-[00:00:18]: 		K: 	portalresurection	 V: 	always	
-[00:00:18]: 		K: 	prefabswaps_start	 V: 	default	
-[00:00:18]: 		K: 	reeds	 V: 	default	
-[00:00:18]: 		K: 	regrowth	 V: 	default	
-[00:00:18]: 		K: 	resettime	 V: 	none	
-[00:00:18]: 		K: 	rifts_enabled_cave	 V: 	default	
-[00:00:18]: 		K: 	rifts_frequency_cave	 V: 	default	
-[00:00:18]: 		K: 	roads	 V: 	never	
-[00:00:18]: 		K: 	rock	 V: 	default	
-[00:00:18]: 		K: 	rocky	 V: 	default	
-[00:00:18]: 		K: 	rocky_setting	 V: 	default	
-[00:00:18]: 		K: 	sapling	 V: 	default	
-[00:00:18]: 		K: 	season_start	 V: 	default	
-[00:00:18]: 		K: 	seasonalstartingitems	 V: 	default	
-[00:00:18]: 		K: 	shadowcreatures	 V: 	rare	
-[00:00:18]: 		K: 	slurper	 V: 	default	
-[00:00:18]: 		K: 	slurtles	 V: 	default	
-[00:00:18]: 		K: 	slurtles_setting	 V: 	default	
-[00:00:18]: 		K: 	snurtles	 V: 	default	
-[00:00:18]: 		K: 	spawnmode	 V: 	fixed	
-[00:00:18]: 		K: 	spawnprotection	 V: 	default	
-[00:00:18]: 		K: 	specialevent	 V: 	default	
-[00:00:18]: 		K: 	spider_dropper	 V: 	default	
-[00:00:18]: 		K: 	spider_hider	 V: 	default	
-[00:00:18]: 		K: 	spider_spitter	 V: 	default	
-[00:00:18]: 		K: 	spider_warriors	 V: 	default	
-[00:00:18]: 		K: 	spiderqueen	 V: 	default	
-[00:00:18]: 		K: 	spiders	 V: 	default	
-[00:00:18]: 		K: 	spiders_setting	 V: 	default	
-[00:00:18]: 		K: 	start_location	 V: 	caves	
-[00:00:18]: 		K: 	task_set	 V: 	cave_default	
-[00:00:18]: 		K: 	temperaturedamage	 V: 	nonlethal	
-[00:00:18]: 		K: 	tentacles	 V: 	default	
-[00:00:18]: 		K: 	toadstool	 V: 	default	
-[00:00:18]: 		K: 	touchstone	 V: 	default	
-[00:00:18]: 		K: 	trees	 V: 	default	
-[00:00:18]: 		K: 	weather	 V: 	default	
-[00:00:18]: 		K: 	winters_feast	 V: 	default	
-[00:00:18]: 		K: 	world_size	 V: 	default	
-[00:00:18]: 		K: 	wormattacks	 V: 	default	
-[00:00:18]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
-[00:00:18]: 		K: 	wormlights	 V: 	default	
-[00:00:18]: 		K: 	worms	 V: 	default	
-[00:00:18]: 		K: 	year_of_the_beefalo	 V: 	default	
-[00:00:18]: 		K: 	year_of_the_bunnyman	 V: 	default	
-[00:00:18]: 		K: 	year_of_the_carrat	 V: 	default	
-[00:00:18]: 		K: 	year_of_the_catcoon	 V: 	default	
-[00:00:18]: 		K: 	year_of_the_dragonfly	 V: 	default	
-[00:00:18]: 		K: 	year_of_the_gobbler	 V: 	default	
-[00:00:18]: 		K: 	year_of_the_pig	 V: 	default	
-[00:00:18]: 		K: 	year_of_the_varg	 V: 	default	
-[00:00:18]: 	K: 	required_prefabs	 V: 	table: 0000000008381860	
-[00:00:18]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:18]: 	K: 	settings_desc	 V: 	探查洞穴…… 一起！	
-[00:00:18]: 	K: 	settings_id	 V: 	DST_CAVE	
-[00:00:18]: 	K: 	settings_name	 V: 	洞穴	
-[00:00:18]: 	K: 	substitutes	 V: 	table: 00000000083811D0	
-[00:00:18]: 	K: 	version	 V: 	4	
-[00:00:18]: 	K: 	worldgen_desc	 V: 	探查洞穴…… 一起！	
-[00:00:18]: 	K: 	worldgen_id	 V: 	DST_CAVE	
-[00:00:18]: 	K: 	worldgen_name	 V: 	洞穴	
-[00:00:18]: 
-#######
-#
-# Generating SURVIVAL Mode Level
-#
-#######
-	
-[00:00:18]: Prefab Swap Selection: regular grass	
-[00:00:18]: Prefab Swap Selection: regular twigs	
-[00:00:18]: Prefab Swap Selection: regular berries	
-[00:00:18]: New size:	425	default	
-[00:00:18]: Creating story...	
-[00:00:18]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
-[00:00:18]: [Story Gen] RestrictNodesByKey	
-[00:00:18]: Finding valid start task...	
-[00:00:18]:    ...picked 	CaveExitTask4	
-[00:00:18]: Has start node	GreenMushSinkhole	
-[00:00:18]: Adding Background Nodes	
-[00:00:18]: [Story Gen] Adding Cove Nodes	
-[00:00:18]: [WorldSimActual::WorldGen_InitializeNodePoints]
-[00:00:18]: [WorldSimActual::WorldGen_VoronoiPass]
-[00:00:18]: GenerateVoronoiMap [100]:
-[00:00:22]: ...Done.
-[00:00:22]: ... story created	
-[00:00:22]: Baking map...	425	
-[00:00:22]: [WorldSimActual::WorldGen_Commit] worldgen success.
-[00:00:22]: [WorldSimActual::ConvertToTileMap]
-[00:00:22]: [ConvertToTileMap]
-[00:00:22]: [WorldSimActual::ConvertToTileMap] complete
-[00:00:22]: [WorldSimActual::SeparateIslands]
-[00:00:22]: [SeparateIslands]
-[00:00:22]: [WorldSimActual::SeparateIslands] complete
-[00:00:22]: Map Baked!	
-[00:00:22]: [WorldSimActual::ForceConnectivity]
-[00:00:22]: [GenerateLandmasses]
-[00:00:22]: [GenerateLandmasses] islands: 11
-[00:00:22]: [MergeConnectedLandmasses] true
-[00:00:22]: [WorldSimActual::ForceConnectivity] complete
-[00:00:22]: Encoding...	
-[00:00:22]: [WorldSimActual::CreateNodeIdTileMap]
-[00:00:22]: Encoding... DONE	
-[00:00:22]: Checking Tags	
-[00:00:22]: Populating voronoi...	
-[00:00:22]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
-[00:00:22]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:0:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:0:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall in node Residential3:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall in node Residential3:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential3:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential3:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
-[00:00:22]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
-[00:00:22]: Warning! Could not find a spot for CornerWall in node Residential3:1:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall in node Residential3:1:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall in node Residential3:1:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall in node Residential3:1:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential3:1:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential3:1:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:1:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:1:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for RabbitCity in node RabbitCity:5:RabbitCity	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential3:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential3:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for StraightWall2 in node Residential3:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential3:2:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
-[00:00:22]: Warning! Could not find a spot for PondSinkhole in node PleasantSinkhole:0:SinkholeOasis	
-[00:00:22]: [ReplaceSingleNonLandTiles] Validating...
-[00:00:22]: [ReplaceSingleNonLandTiles] Replaced 29 tiles.
-[00:00:22]: disconnected tiles...	552	
-[00:00:23]: Removing entity on IMPASSABLE		378.265	216.7025	663.06, 0, 16.81	
-[00:00:23]: Removing entity on IMPASSABLE	brokenwall_ruins	192.5	365	-80, 0, 610	
-[00:00:23]: Removing entity on IMPASSABLE	brokenwall_ruins	192.5	364.75	-80, 0, 609	
-[00:00:23]: Removing entity on IMPASSABLE	pandoraschest	110.5	298.5	-408, 0, 344	
-[00:00:23]: Removing entity on IMPASSABLE	pillar_ruins	193	372	-78, 0, 638	
-[00:00:23]: Removing entity on IMPASSABLE	wall_ruins	199.5	372.265	-52, 0, 639.06	
-[00:00:23]: Removing entity on IMPASSABLE	wall_stone_2	380.3125	198.125	671.25, 0, -57.5	
-[00:00:23]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
-[00:00:23]: Checking Required Prefab archive_orchestrina_main has at least 1 instances (1 found).	
-[00:00:23]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
-[00:00:23]: Checking Required Prefab sacred_chest has at least 1 instances (1 found).	
-[00:00:23]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
-[00:00:23]: Checking Required Prefab archive_lockbox_dispencer has at least 3 instances (4 found).	
-[00:00:23]: [ReplaceSingleNonLandTiles] Validating...
-[00:00:23]: [ReplaceSingleNonLandTiles] Replaced 0 tiles.
-[00:00:23]: Done cave map gen!	
-[00:00:23]: Checking map...	
-[00:00:23]: Generation complete, injecting world entities.	
-[00:00:23]: Injected world entities.	
-[00:00:23]: WorldSim::SimThread::Main() complete
-[00:00:23]: Serializing world: session/13647C49E165F770/0000000002
-[00:00:23]: Klump load on boot started.	
-[00:00:23]: Klump files loaded: 	0	
-[00:00:23]: 	Unload FE	
-[00:00:23]: 	Unload FE done	
-[00:00:25]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
-[00:00:25]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
-[00:00:25]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
-[00:00:25]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
-[00:00:25]: Mod: workshop-706633455 (Ghost speedup)	Registering prefabs	
-[00:00:25]: Mod: workshop-706633455 (Ghost speedup)	  Registering default mod prefab	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:25]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:26]: 	LOAD BE	
-[00:00:41]: Could not preload undefined prefab (brokenwall_scrap)
-[00:00:42]: 	LOAD BE: done	
-[00:00:42]: Begin Session: 13647C49E165F770
-[00:00:42]: saving to server_temp/server_save	
-[00:00:42]: OVERRIDE: setting	healthpenalty	to	none	
-[00:00:42]: OVERRIDE: setting	shadowcreatures	to	rare	
-[00:00:42]: OVERRIDE: setting	darkness	to	nonlethal	
-[00:00:42]: OVERRIDE: setting	hunger	to	nonlethal	
-[00:00:42]: OVERRIDE: setting	temperaturedamage	to	nonlethal	
-[00:00:42]: OVERRIDE: setting	brightmarecreatures	to	rare	
-[00:00:42]: OVERRIDE: setting	acidrain_enabled	to	always	
-[00:00:42]: OVERRIDE: setting	lessdamagetaken	to	always	
-[00:00:42]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
-[00:00:42]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
-[00:00:42]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[00:00:42]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[00:00:42]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[00:00:42]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[00:00:42]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[00:00:42]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:00:42]: Loading 19 new character(s)	
-[00:00:43]: Total 19 character(s) loaded	
-[00:00:48]: Loading Nav Grid	
-[00:00:48]: World generated on build 605310 with save version: 5.146, using seed: 1385026809	
-[00:00:48]: [Shard] Secondary shard is waiting for LUA...
-[00:00:48]: OVERRIDE: setting	ghostenabled	to	always	
-[00:00:48]: OVERRIDE: setting	resettime	to	none	
-[00:00:48]: OVERRIDE: setting	basicresource_regrowth	to	none	
-[00:00:48]: OVERRIDE: setting	portalresurection	to	always	
-[00:00:48]: OVERRIDE: setting	spawnmode	to	fixed	
-[00:00:48]: OVERRIDE: setting	ghostsanitydrain	to	none	
-[00:00:49]: Can't find prefab archive_sound_area	
-[00:00:49]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
-[00:00:49]: Can't find prefab archive_sound_area	
-[00:00:49]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
-[00:00:49]: Can't find prefab archive_sound_area	
-[00:00:49]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
-[00:00:53]: Reconstructing topology	
-[00:00:53]: 	...Sorting points	
-[00:00:53]: 	...Sorting edges	
-[00:00:53]: 	...Connecting nodes	
-[00:00:53]: 	...Validating connections	
-[00:00:53]: 	...Housekeeping	
-[00:00:53]: 	...Done!	
-[00:00:53]: 1 uploads added to server. From server_temp
-[00:00:53]: About to start a shard with these settings:
-[00:00:53]:   ShardName: Caves
-[00:00:53]:   ShardID: 2198109002
-[00:00:53]:   ShardRole: SECONDARY
-[00:00:53]:   MasterHost: 127.0.0.1
-[00:00:53]:   MasterBind: (null)
-[00:00:53]:   MasterPort: 10888
-[00:00:53]: [Shard] Connecting to master...
-[00:00:53]: Telling Client our new session identifier: 13647C49E165F770
-[00:00:53]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:00:54]: Validating portal[1] <-> <nil>[1] (inactive)	
-[00:00:54]: Validating portal[2] <-> <nil>[2] (inactive)	
-[00:00:54]: Validating portal[3] <-> <nil>[3] (inactive)	
-[00:00:54]: Validating portal[4] <-> <nil>[4] (inactive)	
-[00:00:54]: Validating portal[5] <-> <nil>[5] (inactive)	
-[00:00:54]: Validating portal[6] <-> <nil>[6] (inactive)	
-[00:00:54]: Validating portal[7] <-> <nil>[7] (inactive)	
-[00:00:54]: Validating portal[8] <-> <nil>[8] (inactive)	
-[00:00:54]: Validating portal[9] <-> <nil>[9] (inactive)	
-[00:00:54]: Validating portal[10] <-> <nil>[10] (inactive)	
-[00:00:58]: About to start a shard with these settings:
-[00:00:58]:   ShardName: Caves
-[00:00:58]:   ShardID: 2198109002
-[00:00:58]:   ShardRole: SECONDARY
-[00:00:58]:   MasterHost: 127.0.0.1
-[00:00:58]:   MasterBind: (null)
-[00:00:58]:   MasterPort: 10888
-[00:00:58]: [Shard] Connecting to master...
-[00:00:58]: [Shard] Sending secondary shard information to master...
-[00:00:58]: Received MasterInfoPacket row KU_08rWyoX7 region eu-central-1
-[00:00:58]: Obtaining secondary shard IP from eu-central-1 lobby
-[00:00:59]: [Shard] secondary shard is now ready!
-[00:00:59]: World 1 is now connected	
-[00:00:59]: [SyncWorldSettings] Sending ResyncWorldSettings.	
-[00:00:59]: Validating portal[1] <-> 1[1] (active)	
-[00:00:59]: Validating portal[2] <-> 1[2] (active)	
-[00:00:59]: Validating portal[3] <-> 1[3] (active)	
-[00:00:59]: Validating portal[4] <-> 1[4] (active)	
-[00:00:59]: Validating portal[5] <-> 1[5] (active)	
-[00:00:59]: Validating portal[6] <-> 1[6] (active)	
-[00:00:59]: Validating portal[7] <-> 1[7] (active)	
-[00:00:59]: Validating portal[8] <-> 1[8] (active)	
-[00:00:59]: Validating portal[9] <-> 1[9] (active)	
-[00:00:59]: Validating portal[10] <-> 1[10] (active)	
-[00:00:59]: [SyncWorldSettings] recieved world settings from master shard.	true	
-[00:00:59]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
-[00:00:59]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
-[00:00:59]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
-[00:00:59]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
-[00:00:59]: [SyncWorldSettings] applying shadowcreatures = rare from master shard.	
-[00:00:59]: [SyncWorldSettings] applying resettime = none from master shard.	
-[00:00:59]: [SyncWorldSettings] applying krampus = default from master shard.	
-[00:00:59]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
-[00:00:59]: [SyncWorldSettings] applying healthpenalty = none from master shard.	
-[00:00:59]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
-[00:00:59]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
-[00:00:59]: [SyncWorldSettings] applying portalresurection = always from master shard.	
-[00:00:59]: component hauntable already exists on entity 110164 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
-[00:00:59]: [SyncWorldSettings] applying brightmarecreatures = rare from master shard.	
-[00:00:59]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
-[00:00:59]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
-[00:00:59]: [SyncWorldSettings] recieved world settings from master shard.	true	
-[00:00:59]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
-[00:00:59]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
-[00:00:59]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
-[00:00:59]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
-[00:00:59]: [SyncWorldSettings] applying shadowcreatures = rare from master shard.	
-[00:00:59]: [SyncWorldSettings] applying resettime = none from master shard.	
-[00:00:59]: [SyncWorldSettings] applying krampus = default from master shard.	
-[00:00:59]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
-[00:00:59]: [SyncWorldSettings] applying healthpenalty = none from master shard.	
-[00:00:59]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
-[00:00:59]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
-[00:00:59]: [SyncWorldSettings] applying portalresurection = always from master shard.	
-[00:00:59]: component hauntable already exists on entity 110164 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
-[00:00:59]: [SyncWorldSettings] applying brightmarecreatures = rare from master shard.	
-[00:00:59]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
-[00:00:59]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
-[00:01:00]: [Shard] secondary shard LUA is now ready!
-[00:01:00]: [IPC] Signal 'DST_Secondary_Ready' opened  #00000000000009B8
-[00:01:00]: [IPC] Sending signal... #00000000000009B8
-[00:01:00]: Sim paused
-[00:02:18]: Sim unpaused
-[00:06:08]: World 1 is now disconnected	
-[00:06:08]: Validating portal[1] <-> 1[1] (inactive)	
-[00:06:08]: Validating portal[2] <-> 1[2] (inactive)	
-[00:06:08]: Validating portal[3] <-> 1[3] (inactive)	
-[00:06:08]: Validating portal[4] <-> 1[4] (inactive)	
-[00:06:08]: Validating portal[5] <-> 1[5] (inactive)	
-[00:06:08]: Validating portal[6] <-> 1[6] (inactive)	
-[00:06:08]: Validating portal[7] <-> 1[7] (inactive)	
-[00:06:08]: Validating portal[8] <-> 1[8] (inactive)	
-[00:06:08]: Validating portal[9] <-> 1[9] (inactive)	
-[00:06:08]: Validating portal[10] <-> 1[10] (inactive)	
-[00:06:08]: Sim paused
-[00:06:22]: Synchronizing backward to master snapshot 2	
-[00:06:23]: World 1 is now connected	
-[00:06:23]: [SyncWorldSettings] Sending ResyncWorldSettings.	
-[00:06:23]: Validating portal[1] <-> 1[1] (active)	
-[00:06:23]: Validating portal[2] <-> 1[2] (active)	
-[00:06:23]: Validating portal[3] <-> 1[3] (active)	
-[00:06:23]: Validating portal[4] <-> 1[4] (active)	
-[00:06:23]: Validating portal[5] <-> 1[5] (active)	
-[00:06:23]: Validating portal[6] <-> 1[6] (active)	
-[00:06:23]: Validating portal[7] <-> 1[7] (active)	
-[00:06:23]: Validating portal[8] <-> 1[8] (active)	
-[00:06:23]: Validating portal[9] <-> 1[9] (active)	
-[00:06:23]: Validating portal[10] <-> 1[10] (active)	
-[00:06:23]: [SyncWorldSettings] recieved world settings from master shard.	true	
-[00:06:23]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
-[00:06:23]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
-[00:06:23]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
-[00:06:23]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
-[00:06:23]: [SyncWorldSettings] applying shadowcreatures = rare from master shard.	
-[00:06:23]: [SyncWorldSettings] applying resettime = none from master shard.	
-[00:06:23]: [SyncWorldSettings] applying krampus = default from master shard.	
-[00:06:23]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
-[00:06:23]: [SyncWorldSettings] applying healthpenalty = none from master shard.	
-[00:06:23]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
-[00:06:23]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
-[00:06:23]: [SyncWorldSettings] applying portalresurection = always from master shard.	
-[00:06:23]: component hauntable already exists on entity 110164 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
-[00:06:23]: [SyncWorldSettings] applying brightmarecreatures = rare from master shard.	
-[00:06:23]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
-[00:06:23]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
-[00:06:23]: Sim unpaused
-[00:06:23]: Collecting garbage...
-[00:06:23]: lua_gc took 0.21 seconds
-[00:06:23]: ~ShardLuaProxy()
-[00:06:23]: ~cEventLeaderboardProxy()
-[00:06:23]: ~ItemServerLuaProxy()
-[00:06:23]: ~InventoryLuaProxy()
-[00:06:23]: ~NetworkLuaProxy()
-[00:06:23]: ~SimLuaProxy()
-[00:06:23]: lua_close took 0.33 seconds
-[00:06:23]: ReleaseAll
-[00:06:23]: ReleaseAll Finished
-[00:06:23]: cGame::StartPlaying
-[00:06:23]: AppVersion::GetArchitecture() x64
-[00:06:23]: LOADING LUA
-[00:06:23]: DoLuaFile scripts/main.lua
-[00:06:23]: DoLuaFile loading buffer scripts/main.lua
-[00:06:23]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
-[00:06:26]:   taskgrouplist:	default	联机版	
-[00:06:26]:   taskgrouplist:	classic	经典	
-[00:06:26]:   taskgrouplist:	cave_default	地下	
-[00:06:26]:   taskgrouplist:	lavaarena_taskset	熔炉	
-[00:06:26]:   taskgrouplist:	quagmire_taskset	暴食	
-[00:06:26]: Running main.lua
-	
-[00:06:26]: loaded modindex	
-[00:06:26]: ModIndex: Beginning normal load sequence for dedicated server.
-	
-[00:06:26]: SUCCESS: Loaded modoverrides.lua	
-[00:06:26]: modoverrides.lua enabling workshop-2287303119	
-[00:06:26]: modoverrides.lua enabling workshop-378160973	
-[00:06:26]: modoverrides.lua enabling workshop-706633455	
-[00:06:26]: modoverrides.lua enabling workshop-569043634	
-[00:06:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
-[00:06:26]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
-[00:06:26]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
-[00:06:26]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
-[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-706633455	
-[00:06:26]: Loading mod: workshop-706633455 (Ghost speedup) Version:0.3	
-[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
-[00:06:26]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.3	
-[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:06:26]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
-[00:06:26]: Could not load mod_config_data/modconfiguration_workshop-569043634	
-[00:06:26]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
-[00:06:26]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
-[00:06:26]: Overriding mod workshop-2287303119's option  with value 0	
-[00:06:26]: Overriding mod workshop-2287303119's option  with value 0	
-[00:06:26]: Overriding mod workshop-2287303119's option chestR with value -1	
-[00:06:26]: Overriding mod workshop-2287303119's option food_style with value 0	
-[00:06:26]: Overriding mod workshop-2287303119's option display_hp with value 1	
-[00:06:26]: Overriding mod workshop-2287303119's option food_order with value 0	
-[00:06:26]: Overriding mod workshop-2287303119's option chestG with value -1	
-[00:06:26]: Overriding mod workshop-2287303119's option Show_range with value false	
-[00:06:26]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
-[00:06:26]: Overriding mod workshop-2287303119's option T_crop with value true	
-[00:06:26]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
-[00:06:26]: Overriding mod workshop-2287303119's option show_uses with value -1	
-[00:06:26]: Overriding mod workshop-2287303119's option food_estimation with value -1	
-[00:06:26]: Overriding mod workshop-2287303119's option Show_naughtiness with value false	
-[00:06:26]: Overriding mod workshop-2287303119's option show_fueled with value 3	
-[00:06:26]: Overriding mod workshop-2287303119's option show_fuel with value true	
-[00:06:26]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
-[00:06:26]: Overriding mod workshop-2287303119's option chestB with value -1	
-[00:06:26]: Overriding mod workshop-2287303119's option show_food_units with value -1	
-[00:06:26]: Overriding mod workshop-2287303119's option lang with value auto	
-[00:06:26]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
-[00:06:26]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:06:26]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:06:26]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:06:26]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
-[00:06:26]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:06:26]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:06:26]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:06:26]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:06:26]: applying configuration_options from modoverrides.lua to mod workshop-706633455	
-[00:06:26]: Overriding mod workshop-706633455's option speedmultiplier with value 2	
-[00:06:26]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
-[00:06:26]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
-[00:06:26]: Overriding mod workshop-569043634's option campfire with value Enabled	
-[00:06:26]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option skeleton with value Enabled	
-[00:06:26]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option reviver with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option coldfire with value Enabled	
-[00:06:26]: Overriding mod workshop-569043634's option SpawnProtection with value Enabled	
-[00:06:26]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option firepit with value Enabled	
-[00:06:26]: Overriding mod workshop-569043634's option usetags with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
-[00:06:26]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
-[00:06:26]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
-[00:06:26]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
-[00:06:26]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
-[00:06:26]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
-[00:06:27]: ShowMe version:	0.59.9.3	
-[00:06:27]: show_food_units	-1	-1	-1	
-[00:06:27]: show_uses	-1	-1	-1	
-[00:06:27]: Detected language for ShowMe: 	auto	zh	
-[00:06:27]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
-[00:06:27]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:06:27]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
-[00:06:27]: Mod: workshop-706633455 (Ghost speedup)	Loading modworldgenmain.lua	
-[00:06:27]: Mod: workshop-706633455 (Ghost speedup)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:06:27]: Mod: workshop-706633455 (Ghost speedup)	Loading modmain.lua	
-[00:06:27]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:06:27]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:06:27]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:06:27]: ModIndex:GetModsToLoad inserting moddir, 	workshop-706633455	
-[00:06:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
-[00:06:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
-[00:06:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
-[00:06:27]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:06:27]: LOADING LUA SUCCESS
-[00:06:27]: Registering Server mod namespace "showmeshint"
-[00:06:27]: Registering Server mod namespace "workshop-378160973"
-[00:06:27]: Registering Server mod namespace "showme"
-[00:06:27]: PlayerDeaths could not load morgue	
-[00:06:27]: PlayerHistory could not load player_history	
-[00:06:27]: ServerPreferences could not load server_preferences	
-[00:06:27]: ConsoleScreenSettings could not load consolescreen	
-[00:06:27]: bloom_enabled	true	
-[00:06:27]: OnFilesLoaded()	
-[00:06:27]: OnUpdatePurchaseStateComplete	
-[00:06:27]: Loading world: session/13647C49E165F770/0000000002	
-[00:06:27]: Save file is at version 5.146	
-[00:06:27]: Klump load on boot started.	
-[00:06:27]: Klump files loaded: 	0	
-[00:06:27]: 	Unload characters	
-[00:06:27]: 	BE assets already loaded	
-[00:06:28]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
-[00:06:28]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
-[00:06:28]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
-[00:06:28]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
-[00:06:28]: Mod: workshop-706633455 (Ghost speedup)	Registering prefabs	
-[00:06:28]: Mod: workshop-706633455 (Ghost speedup)	  Registering default mod prefab	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:06:28]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:06:28]: Begin Session: 13647C49E165F770
-[00:06:28]: Stomping previously assigned session identifier, two loads issued.
-[00:06:28]: saving to server_temp/server_save	
-[00:06:28]: OVERRIDE: setting	healthpenalty	to	none	
-[00:06:28]: OVERRIDE: setting	shadowcreatures	to	rare	
-[00:06:28]: OVERRIDE: setting	darkness	to	nonlethal	
-[00:06:28]: OVERRIDE: setting	hunger	to	nonlethal	
-[00:06:28]: OVERRIDE: setting	temperaturedamage	to	nonlethal	
-[00:06:28]: OVERRIDE: setting	brightmarecreatures	to	rare	
-[00:06:28]: OVERRIDE: setting	acidrain_enabled	to	always	
-[00:06:28]: OVERRIDE: setting	lessdamagetaken	to	always	
-[00:06:28]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
-[00:06:28]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
-[00:06:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[00:06:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[00:06:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[00:06:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[00:06:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[00:06:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:06:28]: Loading 19 new character(s)	
-[00:06:29]: Total 19 character(s) loaded	
-[00:06:32]: Loading Nav Grid	
-[00:06:32]: World generated on build 605310 with save version: 5.146, using seed: 1385026809	
-[00:06:33]: OVERRIDE: setting	ghostenabled	to	always	
-[00:06:33]: OVERRIDE: setting	resettime	to	none	
-[00:06:33]: OVERRIDE: setting	basicresource_regrowth	to	none	
-[00:06:33]: OVERRIDE: setting	portalresurection	to	always	
-[00:06:33]: OVERRIDE: setting	spawnmode	to	fixed	
-[00:06:33]: OVERRIDE: setting	ghostsanitydrain	to	none	
-[00:06:34]: Can't find prefab archive_sound_area	
-[00:06:34]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
-[00:06:34]: Can't find prefab archive_sound_area	
-[00:06:34]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
-[00:06:34]: Can't find prefab archive_sound_area	
-[00:06:34]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
-[00:06:36]: Reconstructing topology	
-[00:06:36]: 	...Sorting points	
-[00:06:36]: 	...Sorting edges	
-[00:06:36]: 	...Connecting nodes	
-[00:06:36]: 	...Validating connections	
-[00:06:37]: 	...Housekeeping	
-[00:06:37]: 	...Done!	
-[00:06:37]: 1 uploads added to server. From server_temp
-[00:06:37]: World 1 is now connected	
-[00:06:37]: [SyncWorldSettings] Sending ResyncWorldSettings.	
-[00:06:37]: Telling Client our new session identifier: 13647C49E165F770
-[00:06:37]: Check for write access: TRUE
-[00:06:37]: Check for read access: TRUE
-[00:06:37]: Available disk space for save files: 6313 MB
-[00:06:37]: ModIndex: Load sequence finished successfully.	
-[00:06:37]: Reset() returning
-[00:06:37]: [SyncWorldSettings] recieved world settings from master shard.	true	
-[00:06:37]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
-[00:06:37]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
-[00:06:37]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
-[00:06:37]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
-[00:06:37]: [SyncWorldSettings] applying shadowcreatures = rare from master shard.	
-[00:06:37]: [SyncWorldSettings] applying resettime = none from master shard.	
-[00:06:37]: [SyncWorldSettings] applying krampus = default from master shard.	
-[00:06:37]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
-[00:06:37]: [SyncWorldSettings] applying healthpenalty = none from master shard.	
-[00:06:37]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
-[00:06:37]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
-[00:06:37]: [SyncWorldSettings] applying portalresurection = always from master shard.	
-[00:06:37]: component hauntable already exists on entity 110153 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
-[00:06:37]: [SyncWorldSettings] applying brightmarecreatures = rare from master shard.	
-[00:06:37]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
-[00:06:37]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
-[00:06:37]: [SyncWorldSettings] recieved world settings from master shard.	true	
-[00:06:37]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
-[00:06:37]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
-[00:06:37]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
-[00:06:37]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
-[00:06:37]: [SyncWorldSettings] applying shadowcreatures = rare from master shard.	
-[00:06:37]: [SyncWorldSettings] applying resettime = none from master shard.	
-[00:06:37]: [SyncWorldSettings] applying krampus = default from master shard.	
-[00:06:37]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
-[00:06:37]: [SyncWorldSettings] applying healthpenalty = none from master shard.	
-[00:06:37]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
-[00:06:37]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
-[00:06:37]: [SyncWorldSettings] applying portalresurection = always from master shard.	
-[00:06:37]: component hauntable already exists on entity 110153 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
-[00:06:37]: [SyncWorldSettings] applying brightmarecreatures = rare from master shard.	
-[00:06:37]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
-[00:06:37]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
-[00:06:37]: Validating portal[1] <-> 1[1] (active)	
-[00:06:37]: Validating portal[2] <-> 1[2] (active)	
-[00:06:37]: Validating portal[3] <-> 1[3] (active)	
-[00:06:37]: Validating portal[4] <-> 1[4] (active)	
-[00:06:37]: Validating portal[5] <-> 1[5] (active)	
-[00:06:37]: Validating portal[6] <-> 1[6] (active)	
-[00:06:37]: Validating portal[7] <-> 1[7] (active)	
-[00:06:37]: Validating portal[8] <-> 1[8] (active)	
-[00:06:37]: Validating portal[9] <-> 1[9] (active)	
-[00:06:37]: Validating portal[10] <-> 1[10] (active)	
-[00:06:38]: Sim paused
-[00:07:18]: Sim unpaused
-[00:15:19]: Available disk space for save files: 6312 MB
-[00:15:19]: Serializing world: session/13647C49E165F770/0000000003
-[00:23:20]: Available disk space for save files: 6304 MB
-[00:23:20]: Serializing world: session/13647C49E165F770/0000000004
-[00:23:39]: Server Paused	
-[00:28:27]: Server Unpaused	
-[00:28:28]: [Shard] We have been disconnected from the master. Waiting to reconnect...
-[00:28:28]: Sim paused
-[00:28:30]: [IPC] Received shutdown signal.
-[00:28:30]: Available disk space for save files: 6296 MB
-[00:28:30]: Serializing world: session/13647C49E165F770/0000000005
-[00:28:30]: [Shard] Stopping shard mode
-[00:28:30]: [Steam] SendUserDisconnect for ''
-[00:28:30]: Collecting garbage...
-[00:28:31]: lua_gc took 0.21 seconds
-[00:28:31]: ~ShardLuaProxy()
-[00:28:31]: ~cEventLeaderboardProxy()
-[00:28:31]: ~ItemServerLuaProxy()
-[00:28:31]: ~InventoryLuaProxy()
-[00:28:31]: ~NetworkLuaProxy()
-[00:28:31]: ~SimLuaProxy()
-[00:28:31]: lua_close took 0.36 seconds
-[00:28:31]: Could not unload undefined prefab (brokenwall_scrap)
-[00:28:31]: CurlRequestManager::ClientThread::Main() complete
-[00:28:31]: HttpClient2 discarded 0 callbacks.
-[00:28:31]: Shutting down
+[00:00:11]: [Shard] Sending secondary shard information to master...
+[00:00:11]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:11]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:11]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:11]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:11]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:11]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:11]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:11]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:11]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:11]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:11]: Received MasterInfoPacket row KU_08rWyoX7 region eu-central-1
+[00:00:11]: Obtaining secondary shard IP from eu-central-1 lobby
+[00:00:11]: [Shard] secondary shard is now ready!
+[00:00:11]: World 1 is now connected	
+[00:00:11]: [SyncWorldSettings] Sending ResyncWorldSettings.	
+[00:00:11]: Validating portal[7] <-> 1[7] (active)	
+[00:00:11]: Validating portal[10] <-> 1[10] (active)	
+[00:00:11]: Validating portal[4] <-> 1[4] (active)	
+[00:00:11]: Validating portal[5] <-> 1[5] (active)	
+[00:00:11]: Validating portal[2] <-> 1[2] (active)	
+[00:00:11]: Validating portal[6] <-> 1[6] (active)	
+[00:00:11]: Validating portal[1] <-> 1[1] (active)	
+[00:00:11]: Validating portal[9] <-> 1[9] (active)	
+[00:00:11]: Validating portal[8] <-> 1[8] (active)	
+[00:00:11]: Validating portal[3] <-> 1[3] (active)	
+[00:00:11]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[00:00:11]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
+[00:00:11]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[00:00:11]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
+[00:00:11]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[00:00:11]: [SyncWorldSettings] applying shadowcreatures = rare from master shard.	
+[00:00:11]: [SyncWorldSettings] applying resettime = none from master shard.	
+[00:00:11]: [SyncWorldSettings] applying krampus = default from master shard.	
+[00:00:11]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
+[00:00:11]: [SyncWorldSettings] applying healthpenalty = none from master shard.	
+[00:00:11]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[00:00:11]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
+[00:00:11]: [SyncWorldSettings] applying portalresurection = always from master shard.	
+[00:00:11]: component hauntable already exists on entity 103239 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
+[00:00:11]: [SyncWorldSettings] applying brightmarecreatures = rare from master shard.	
+[00:00:11]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
+[00:00:11]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
+[00:00:11]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[00:00:11]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
+[00:00:11]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[00:00:11]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
+[00:00:11]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[00:00:11]: [SyncWorldSettings] applying shadowcreatures = rare from master shard.	
+[00:00:11]: [SyncWorldSettings] applying resettime = none from master shard.	
+[00:00:11]: [SyncWorldSettings] applying krampus = default from master shard.	
+[00:00:11]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
+[00:00:11]: [SyncWorldSettings] applying healthpenalty = none from master shard.	
+[00:00:11]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[00:00:11]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
+[00:00:11]: [SyncWorldSettings] applying portalresurection = always from master shard.	
+[00:00:11]: component hauntable already exists on entity 103239 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
+[00:00:11]: [SyncWorldSettings] applying brightmarecreatures = rare from master shard.	
+[00:00:11]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
+[00:00:11]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
+[00:00:12]: [Shard] secondary shard LUA is now ready!
+[00:00:12]: [IPC] Signal created '/DST_Secondary_Ready'  #0x790f5c485000
+[00:00:12]: [IPC] Sending signal.... #0x790f5c485000
+[00:00:12]: Sim paused
+[00:00:26]: Sim unpaused
+[00:00:28]: Server Autopaused	
+[00:01:30]: Server Unpaused	
+[00:01:30]: Server Autopaused	
+[00:02:27]: Server Unpaused	
+[00:02:28]: Server Autopaused	
+[00:03:17]: Server Unpaused	
+[00:03:20]: Server Paused	
+[00:04:24]: Server Unpaused	
+[00:04:46]: Server Paused	
+[00:05:01]: Server Unpaused	
+[00:12:01]: Available disk space for save files: 125828 MB
+[00:12:01]: Serializing world: session/13647C49E165F770/0000000007
+[00:20:01]: Available disk space for save files: 125835 MB
+[00:20:01]: Serializing world: session/13647C49E165F770/0000000008
+[00:20:01]: Truncating to snapshot #8...
+[00:20:01]:  - session/13647C49E165F770/0000000002
+[00:20:01]:    1 file(s) removed
+[00:28:01]: Available disk space for save files: 125829 MB
+[00:28:01]: Serializing world: session/13647C49E165F770/0000000009
+[00:28:01]: Truncating to snapshot #9...
+[00:28:01]:  - session/13647C49E165F770/0000000003
+[00:28:01]:    1 file(s) removed
+[00:30:02]: [200] Account Communication Success (6)
+[00:30:02]: Received (KU_08rWyoX7) from TokenPurpose
+[00:36:01]: Available disk space for save files: 125826 MB
+[00:36:01]: Serializing world: session/13647C49E165F770/0000000010
+[00:36:01]: Truncating to snapshot #10...
+[00:36:01]:  - session/13647C49E165F770/0000000004
+[00:36:01]:    1 file(s) removed
+[00:44:01]: Available disk space for save files: 125821 MB
+[00:44:02]: Serializing world: session/13647C49E165F770/0000000011
+[00:44:02]: Truncating to snapshot #11...
+[00:44:02]:  - session/13647C49E165F770/0000000005
+[00:44:02]:    1 file(s) removed
+[00:52:02]: Available disk space for save files: 125817 MB
+[00:52:02]: Serializing world: session/13647C49E165F770/0000000012
+[00:52:02]: Truncating to snapshot #12...
+[00:52:02]:  - session/13647C49E165F770/0000000006
+[00:52:02]:    1 file(s) removed
+[00:52:23]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[00:52:23]: Sim paused
+[00:52:28]: About to start a shard with these settings:
+[00:52:28]:   ShardName: Caves
+[00:52:28]:   ShardID: 2198109002
+[00:52:28]:   ShardRole: SECONDARY
+[00:52:28]:   MasterHost: 127.0.0.1
+[00:52:28]:   MasterBind: (null)
+[00:52:28]:   MasterPort: 10888
+[00:52:28]: [Shard] Connecting to master...
+[00:52:38]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:52:43]: About to start a shard with these settings:
+[00:52:43]:   ShardName: Caves
+[00:52:43]:   ShardID: 2198109002
+[00:52:43]:   ShardRole: SECONDARY
+[00:52:43]:   MasterHost: 127.0.0.1
+[00:52:43]:   MasterBind: (null)
+[00:52:43]:   MasterPort: 10888
+[00:52:43]: [Shard] Connecting to master...
+[00:52:53]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:52:58]: About to start a shard with these settings:
+[00:52:58]:   ShardName: Caves
+[00:52:58]:   ShardID: 2198109002
+[00:52:58]:   ShardRole: SECONDARY
+[00:52:58]:   MasterHost: 127.0.0.1
+[00:52:58]:   MasterBind: (null)
+[00:52:58]:   MasterPort: 10888
+[00:52:58]: [Shard] Connecting to master...
+[00:53:08]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:53:13]: About to start a shard with these settings:
+[00:53:13]:   ShardName: Caves
+[00:53:13]:   ShardID: 2198109002
+[00:53:13]:   ShardRole: SECONDARY
+[00:53:13]:   MasterHost: 127.0.0.1
+[00:53:13]:   MasterBind: (null)
+[00:53:13]:   MasterPort: 10888
+[00:53:13]: [Shard] Connecting to master...
+[00:53:23]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:53:28]: About to start a shard with these settings:
+[00:53:28]:   ShardName: Caves
+[00:53:28]:   ShardID: 2198109002
+[00:53:28]:   ShardRole: SECONDARY
+[00:53:28]:   MasterHost: 127.0.0.1
+[00:53:28]:   MasterBind: (null)
+[00:53:28]:   MasterPort: 10888
+[00:53:28]: [Shard] Connecting to master...
+[00:53:38]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:53:43]: About to start a shard with these settings:
+[00:53:43]:   ShardName: Caves
+[00:53:43]:   ShardID: 2198109002
+[00:53:43]:   ShardRole: SECONDARY
+[00:53:43]:   MasterHost: 127.0.0.1
+[00:53:43]:   MasterBind: (null)
+[00:53:43]:   MasterPort: 10888
+[00:53:43]: [Shard] Connecting to master...
+[00:53:53]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:53:58]: About to start a shard with these settings:
+[00:53:58]:   ShardName: Caves
+[00:53:58]:   ShardID: 2198109002
+[00:53:58]:   ShardRole: SECONDARY
+[00:53:58]:   MasterHost: 127.0.0.1
+[00:53:58]:   MasterBind: (null)
+[00:53:58]:   MasterPort: 10888
+[00:53:58]: [Shard] Connecting to master...
+[00:54:08]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:54:13]: About to start a shard with these settings:
+[00:54:13]:   ShardName: Caves
+[00:54:13]:   ShardID: 2198109002
+[00:54:13]:   ShardRole: SECONDARY
+[00:54:13]:   MasterHost: 127.0.0.1
+[00:54:13]:   MasterBind: (null)
+[00:54:13]:   MasterPort: 10888
+[00:54:13]: [Shard] Connecting to master...
+[00:54:23]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:54:28]: About to start a shard with these settings:
+[00:54:28]:   ShardName: Caves
+[00:54:28]:   ShardID: 2198109002
+[00:54:28]:   ShardRole: SECONDARY
+[00:54:28]:   MasterHost: 127.0.0.1
+[00:54:28]:   MasterBind: (null)
+[00:54:28]:   MasterPort: 10888
+[00:54:28]: [Shard] Connecting to master...
+[00:54:38]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:54:43]: About to start a shard with these settings:
+[00:54:43]:   ShardName: Caves
+[00:54:43]:   ShardID: 2198109002
+[00:54:43]:   ShardRole: SECONDARY
+[00:54:43]:   MasterHost: 127.0.0.1
+[00:54:43]:   MasterBind: (null)
+[00:54:43]:   MasterPort: 10888
+[00:54:43]: [Shard] Connecting to master...
+[00:54:53]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:54:58]: About to start a shard with these settings:
+[00:54:58]:   ShardName: Caves
+[00:54:58]:   ShardID: 2198109002
+[00:54:58]:   ShardRole: SECONDARY
+[00:54:58]:   MasterHost: 127.0.0.1
+[00:54:58]:   MasterBind: (null)
+[00:54:58]:   MasterPort: 10888
+[00:54:58]: [Shard] Connecting to master...
+[00:55:08]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:55:13]: About to start a shard with these settings:
+[00:55:13]:   ShardName: Caves
+[00:55:13]:   ShardID: 2198109002
+[00:55:13]:   ShardRole: SECONDARY
+[00:55:13]:   MasterHost: 127.0.0.1
+[00:55:13]:   MasterBind: (null)
+[00:55:13]:   MasterPort: 10888
+[00:55:13]: [Shard] Connecting to master...
+[00:55:23]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:55:28]: About to start a shard with these settings:
+[00:55:28]:   ShardName: Caves
+[00:55:28]:   ShardID: 2198109002
+[00:55:28]:   ShardRole: SECONDARY
+[00:55:28]:   MasterHost: 127.0.0.1
+[00:55:28]:   MasterBind: (null)
+[00:55:28]:   MasterPort: 10888
+[00:55:28]: [Shard] Connecting to master...
+[00:55:38]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:55:43]: About to start a shard with these settings:
+[00:55:43]:   ShardName: Caves
+[00:55:43]:   ShardID: 2198109002
+[00:55:43]:   ShardRole: SECONDARY
+[00:55:43]:   MasterHost: 127.0.0.1
+[00:55:43]:   MasterBind: (null)
+[00:55:43]:   MasterPort: 10888
+[00:55:43]: [Shard] Connecting to master...
+[00:55:53]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:55:58]: About to start a shard with these settings:
+[00:55:58]:   ShardName: Caves
+[00:55:58]:   ShardID: 2198109002
+[00:55:58]:   ShardRole: SECONDARY
+[00:55:58]:   MasterHost: 127.0.0.1
+[00:55:58]:   MasterBind: (null)
+[00:55:58]:   MasterPort: 10888
+[00:55:58]: [Shard] Connecting to master...
+[00:56:08]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:56:14]: About to start a shard with these settings:
+[00:56:14]:   ShardName: Caves
+[00:56:14]:   ShardID: 2198109002
+[00:56:14]:   ShardRole: SECONDARY
+[00:56:14]:   MasterHost: 127.0.0.1
+[00:56:14]:   MasterBind: (null)
+[00:56:14]:   MasterPort: 10888
+[00:56:14]: [Shard] Connecting to master...
+[00:56:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:56:29]: About to start a shard with these settings:
+[00:56:29]:   ShardName: Caves
+[00:56:29]:   ShardID: 2198109002
+[00:56:29]:   ShardRole: SECONDARY
+[00:56:29]:   MasterHost: 127.0.0.1
+[00:56:29]:   MasterBind: (null)
+[00:56:29]:   MasterPort: 10888
+[00:56:29]: [Shard] Connecting to master...
+[00:56:39]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:56:44]: About to start a shard with these settings:
+[00:56:44]:   ShardName: Caves
+[00:56:44]:   ShardID: 2198109002
+[00:56:44]:   ShardRole: SECONDARY
+[00:56:44]:   MasterHost: 127.0.0.1
+[00:56:44]:   MasterBind: (null)
+[00:56:44]:   MasterPort: 10888
+[00:56:44]: [Shard] Connecting to master...
+[00:56:54]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:56:59]: About to start a shard with these settings:
+[00:56:59]:   ShardName: Caves
+[00:56:59]:   ShardID: 2198109002
+[00:56:59]:   ShardRole: SECONDARY
+[00:56:59]:   MasterHost: 127.0.0.1
+[00:56:59]:   MasterBind: (null)
+[00:56:59]:   MasterPort: 10888
+[00:56:59]: [Shard] Connecting to master...
+[00:57:09]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:57:14]: About to start a shard with these settings:
+[00:57:14]:   ShardName: Caves
+[00:57:14]:   ShardID: 2198109002
+[00:57:14]:   ShardRole: SECONDARY
+[00:57:14]:   MasterHost: 127.0.0.1
+[00:57:14]:   MasterBind: (null)
+[00:57:14]:   MasterPort: 10888
+[00:57:14]: [Shard] Connecting to master...
+[00:57:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:57:29]: About to start a shard with these settings:
+[00:57:29]:   ShardName: Caves
+[00:57:29]:   ShardID: 2198109002
+[00:57:29]:   ShardRole: SECONDARY
+[00:57:29]:   MasterHost: 127.0.0.1
+[00:57:29]:   MasterBind: (null)
+[00:57:29]:   MasterPort: 10888
+[00:57:29]: [Shard] Connecting to master...
+[00:57:39]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:57:44]: About to start a shard with these settings:
+[00:57:44]:   ShardName: Caves
+[00:57:44]:   ShardID: 2198109002
+[00:57:44]:   ShardRole: SECONDARY
+[00:57:44]:   MasterHost: 127.0.0.1
+[00:57:44]:   MasterBind: (null)
+[00:57:44]:   MasterPort: 10888
+[00:57:44]: [Shard] Connecting to master...
+[00:57:54]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:57:59]: About to start a shard with these settings:
+[00:57:59]:   ShardName: Caves
+[00:57:59]:   ShardID: 2198109002
+[00:57:59]:   ShardRole: SECONDARY
+[00:57:59]:   MasterHost: 127.0.0.1
+[00:57:59]:   MasterBind: (null)
+[00:57:59]:   MasterPort: 10888
+[00:57:59]: [Shard] Connecting to master...
+[00:58:09]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:58:14]: About to start a shard with these settings:
+[00:58:14]:   ShardName: Caves
+[00:58:14]:   ShardID: 2198109002
+[00:58:14]:   ShardRole: SECONDARY
+[00:58:14]:   MasterHost: 127.0.0.1
+[00:58:14]:   MasterBind: (null)
+[00:58:14]:   MasterPort: 10888
+[00:58:14]: [Shard] Connecting to master...
+[00:58:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:58:29]: About to start a shard with these settings:
+[00:58:29]:   ShardName: Caves
+[00:58:29]:   ShardID: 2198109002
+[00:58:29]:   ShardRole: SECONDARY
+[00:58:29]:   MasterHost: 127.0.0.1
+[00:58:29]:   MasterBind: (null)
+[00:58:29]:   MasterPort: 10888
+[00:58:29]: [Shard] Connecting to master...
+[00:58:39]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:58:44]: About to start a shard with these settings:
+[00:58:44]:   ShardName: Caves
+[00:58:44]:   ShardID: 2198109002
+[00:58:44]:   ShardRole: SECONDARY
+[00:58:44]:   MasterHost: 127.0.0.1
+[00:58:44]:   MasterBind: (null)
+[00:58:44]:   MasterPort: 10888
+[00:58:44]: [Shard] Connecting to master...
+[00:58:54]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:58:59]: About to start a shard with these settings:
+[00:58:59]:   ShardName: Caves
+[00:58:59]:   ShardID: 2198109002
+[00:58:59]:   ShardRole: SECONDARY
+[00:58:59]:   MasterHost: 127.0.0.1
+[00:58:59]:   MasterBind: (null)
+[00:58:59]:   MasterPort: 10888
+[00:58:59]: [Shard] Connecting to master...
+[00:59:09]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:59:14]: About to start a shard with these settings:
+[00:59:14]:   ShardName: Caves
+[00:59:14]:   ShardID: 2198109002
+[00:59:14]:   ShardRole: SECONDARY
+[00:59:14]:   MasterHost: 127.0.0.1
+[00:59:14]:   MasterBind: (null)
+[00:59:14]:   MasterPort: 10888
+[00:59:14]: [Shard] Connecting to master...
+[00:59:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:59:29]: About to start a shard with these settings:
+[00:59:29]:   ShardName: Caves
+[00:59:29]:   ShardID: 2198109002
+[00:59:29]:   ShardRole: SECONDARY
+[00:59:29]:   MasterHost: 127.0.0.1
+[00:59:29]:   MasterBind: (null)
+[00:59:29]:   MasterPort: 10888
+[00:59:29]: [Shard] Connecting to master...
+[00:59:39]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:59:44]: About to start a shard with these settings:
+[00:59:44]:   ShardName: Caves
+[00:59:44]:   ShardID: 2198109002
+[00:59:44]:   ShardRole: SECONDARY
+[00:59:44]:   MasterHost: 127.0.0.1
+[00:59:44]:   MasterBind: (null)
+[00:59:44]:   MasterPort: 10888
+[00:59:44]: [Shard] Connecting to master...
+[00:59:54]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:59:59]: About to start a shard with these settings:
+[00:59:59]:   ShardName: Caves
+[00:59:59]:   ShardID: 2198109002
+[00:59:59]:   ShardRole: SECONDARY
+[00:59:59]:   MasterHost: 127.0.0.1
+[00:59:59]:   MasterBind: (null)
+[00:59:59]:   MasterPort: 10888
+[00:59:59]: [Shard] Connecting to master...
+[01:00:02]: [200] Account Communication Success (6)
+[01:00:02]: Received (KU_08rWyoX7) from TokenPurpose
+[01:00:09]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:00:15]: About to start a shard with these settings:
+[01:00:15]:   ShardName: Caves
+[01:00:15]:   ShardID: 2198109002
+[01:00:15]:   ShardRole: SECONDARY
+[01:00:15]:   MasterHost: 127.0.0.1
+[01:00:15]:   MasterBind: (null)
+[01:00:15]:   MasterPort: 10888
+[01:00:15]: [Shard] Connecting to master...
+[01:00:25]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:00:30]: About to start a shard with these settings:
+[01:00:30]:   ShardName: Caves
+[01:00:30]:   ShardID: 2198109002
+[01:00:30]:   ShardRole: SECONDARY
+[01:00:30]:   MasterHost: 127.0.0.1
+[01:00:30]:   MasterBind: (null)
+[01:00:30]:   MasterPort: 10888
+[01:00:30]: [Shard] Connecting to master...
+[01:00:40]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:00:45]: About to start a shard with these settings:
+[01:00:45]:   ShardName: Caves
+[01:00:45]:   ShardID: 2198109002
+[01:00:45]:   ShardRole: SECONDARY
+[01:00:45]:   MasterHost: 127.0.0.1
+[01:00:45]:   MasterBind: (null)
+[01:00:45]:   MasterPort: 10888
+[01:00:45]: [Shard] Connecting to master...
+[01:00:55]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:01:00]: About to start a shard with these settings:
+[01:01:00]:   ShardName: Caves
+[01:01:00]:   ShardID: 2198109002
+[01:01:00]:   ShardRole: SECONDARY
+[01:01:00]:   MasterHost: 127.0.0.1
+[01:01:00]:   MasterBind: (null)
+[01:01:00]:   MasterPort: 10888
+[01:01:00]: [Shard] Connecting to master...
+[01:01:10]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:01:15]: About to start a shard with these settings:
+[01:01:15]:   ShardName: Caves
+[01:01:15]:   ShardID: 2198109002
+[01:01:15]:   ShardRole: SECONDARY
+[01:01:15]:   MasterHost: 127.0.0.1
+[01:01:15]:   MasterBind: (null)
+[01:01:15]:   MasterPort: 10888
+[01:01:15]: [Shard] Connecting to master...
+[01:01:25]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:01:30]: About to start a shard with these settings:
+[01:01:30]:   ShardName: Caves
+[01:01:30]:   ShardID: 2198109002
+[01:01:30]:   ShardRole: SECONDARY
+[01:01:30]:   MasterHost: 127.0.0.1
+[01:01:30]:   MasterBind: (null)
+[01:01:30]:   MasterPort: 10888
+[01:01:30]: [Shard] Connecting to master...
+[01:01:40]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:01:45]: About to start a shard with these settings:
+[01:01:45]:   ShardName: Caves
+[01:01:45]:   ShardID: 2198109002
+[01:01:45]:   ShardRole: SECONDARY
+[01:01:45]:   MasterHost: 127.0.0.1
+[01:01:45]:   MasterBind: (null)
+[01:01:45]:   MasterPort: 10888
+[01:01:45]: [Shard] Connecting to master...
+[01:01:55]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:02:00]: About to start a shard with these settings:
+[01:02:00]:   ShardName: Caves
+[01:02:00]:   ShardID: 2198109002
+[01:02:00]:   ShardRole: SECONDARY
+[01:02:00]:   MasterHost: 127.0.0.1
+[01:02:00]:   MasterBind: (null)
+[01:02:00]:   MasterPort: 10888
+[01:02:00]: [Shard] Connecting to master...
+[01:02:10]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:02:15]: About to start a shard with these settings:
+[01:02:15]:   ShardName: Caves
+[01:02:15]:   ShardID: 2198109002
+[01:02:15]:   ShardRole: SECONDARY
+[01:02:15]:   MasterHost: 127.0.0.1
+[01:02:15]:   MasterBind: (null)
+[01:02:15]:   MasterPort: 10888
+[01:02:15]: [Shard] Connecting to master...
+[01:02:25]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:02:30]: About to start a shard with these settings:
+[01:02:30]:   ShardName: Caves
+[01:02:30]:   ShardID: 2198109002
+[01:02:30]:   ShardRole: SECONDARY
+[01:02:30]:   MasterHost: 127.0.0.1
+[01:02:30]:   MasterBind: (null)
+[01:02:30]:   MasterPort: 10888
+[01:02:30]: [Shard] Connecting to master...
+[01:02:40]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:02:45]: About to start a shard with these settings:
+[01:02:45]:   ShardName: Caves
+[01:02:45]:   ShardID: 2198109002
+[01:02:45]:   ShardRole: SECONDARY
+[01:02:45]:   MasterHost: 127.0.0.1
+[01:02:45]:   MasterBind: (null)
+[01:02:45]:   MasterPort: 10888
+[01:02:45]: [Shard] Connecting to master...
+[01:02:55]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:03:00]: About to start a shard with these settings:
+[01:03:00]:   ShardName: Caves
+[01:03:00]:   ShardID: 2198109002
+[01:03:00]:   ShardRole: SECONDARY
+[01:03:00]:   MasterHost: 127.0.0.1
+[01:03:00]:   MasterBind: (null)
+[01:03:00]:   MasterPort: 10888
+[01:03:00]: [Shard] Connecting to master...
+[01:03:10]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:03:15]: About to start a shard with these settings:
+[01:03:15]:   ShardName: Caves
+[01:03:15]:   ShardID: 2198109002
+[01:03:15]:   ShardRole: SECONDARY
+[01:03:15]:   MasterHost: 127.0.0.1
+[01:03:15]:   MasterBind: (null)
+[01:03:15]:   MasterPort: 10888
+[01:03:15]: [Shard] Connecting to master...
+[01:03:25]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:03:30]: About to start a shard with these settings:
+[01:03:30]:   ShardName: Caves
+[01:03:30]:   ShardID: 2198109002
+[01:03:30]:   ShardRole: SECONDARY
+[01:03:30]:   MasterHost: 127.0.0.1
+[01:03:30]:   MasterBind: (null)
+[01:03:30]:   MasterPort: 10888
+[01:03:30]: [Shard] Connecting to master...
+[01:03:40]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:03:45]: About to start a shard with these settings:
+[01:03:45]:   ShardName: Caves
+[01:03:45]:   ShardID: 2198109002
+[01:03:45]:   ShardRole: SECONDARY
+[01:03:45]:   MasterHost: 127.0.0.1
+[01:03:45]:   MasterBind: (null)
+[01:03:45]:   MasterPort: 10888
+[01:03:45]: [Shard] Connecting to master...
+[01:03:55]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:04:00]: About to start a shard with these settings:
+[01:04:00]:   ShardName: Caves
+[01:04:00]:   ShardID: 2198109002
+[01:04:00]:   ShardRole: SECONDARY
+[01:04:00]:   MasterHost: 127.0.0.1
+[01:04:00]:   MasterBind: (null)
+[01:04:00]:   MasterPort: 10888
+[01:04:00]: [Shard] Connecting to master...
+[01:04:10]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:04:16]: About to start a shard with these settings:
+[01:04:16]:   ShardName: Caves
+[01:04:16]:   ShardID: 2198109002
+[01:04:16]:   ShardRole: SECONDARY
+[01:04:16]:   MasterHost: 127.0.0.1
+[01:04:16]:   MasterBind: (null)
+[01:04:16]:   MasterPort: 10888
+[01:04:16]: [Shard] Connecting to master...
+[01:04:26]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:04:31]: About to start a shard with these settings:
+[01:04:31]:   ShardName: Caves
+[01:04:31]:   ShardID: 2198109002
+[01:04:31]:   ShardRole: SECONDARY
+[01:04:31]:   MasterHost: 127.0.0.1
+[01:04:31]:   MasterBind: (null)
+[01:04:31]:   MasterPort: 10888
+[01:04:31]: [Shard] Connecting to master...
+[01:04:41]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:04:46]: About to start a shard with these settings:
+[01:04:46]:   ShardName: Caves
+[01:04:46]:   ShardID: 2198109002
+[01:04:46]:   ShardRole: SECONDARY
+[01:04:46]:   MasterHost: 127.0.0.1
+[01:04:46]:   MasterBind: (null)
+[01:04:46]:   MasterPort: 10888
+[01:04:46]: [Shard] Connecting to master...
+[01:04:56]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:05:01]: About to start a shard with these settings:
+[01:05:01]:   ShardName: Caves
+[01:05:01]:   ShardID: 2198109002
+[01:05:01]:   ShardRole: SECONDARY
+[01:05:01]:   MasterHost: 127.0.0.1
+[01:05:01]:   MasterBind: (null)
+[01:05:01]:   MasterPort: 10888
+[01:05:01]: [Shard] Connecting to master...
+[01:05:11]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:05:16]: About to start a shard with these settings:
+[01:05:16]:   ShardName: Caves
+[01:05:16]:   ShardID: 2198109002
+[01:05:16]:   ShardRole: SECONDARY
+[01:05:16]:   MasterHost: 127.0.0.1
+[01:05:16]:   MasterBind: (null)
+[01:05:16]:   MasterPort: 10888
+[01:05:16]: [Shard] Connecting to master...
+[01:05:26]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:05:31]: About to start a shard with these settings:
+[01:05:31]:   ShardName: Caves
+[01:05:31]:   ShardID: 2198109002
+[01:05:31]:   ShardRole: SECONDARY
+[01:05:31]:   MasterHost: 127.0.0.1
+[01:05:31]:   MasterBind: (null)
+[01:05:31]:   MasterPort: 10888
+[01:05:31]: [Shard] Connecting to master...
+[01:05:41]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:05:46]: About to start a shard with these settings:
+[01:05:46]:   ShardName: Caves
+[01:05:46]:   ShardID: 2198109002
+[01:05:46]:   ShardRole: SECONDARY
+[01:05:46]:   MasterHost: 127.0.0.1
+[01:05:46]:   MasterBind: (null)
+[01:05:46]:   MasterPort: 10888
+[01:05:46]: [Shard] Connecting to master...
+[01:05:56]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:06:01]: About to start a shard with these settings:
+[01:06:01]:   ShardName: Caves
+[01:06:01]:   ShardID: 2198109002
+[01:06:01]:   ShardRole: SECONDARY
+[01:06:01]:   MasterHost: 127.0.0.1
+[01:06:01]:   MasterBind: (null)
+[01:06:01]:   MasterPort: 10888
+[01:06:01]: [Shard] Connecting to master...
+[01:06:11]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:06:16]: About to start a shard with these settings:
+[01:06:16]:   ShardName: Caves
+[01:06:16]:   ShardID: 2198109002
+[01:06:16]:   ShardRole: SECONDARY
+[01:06:16]:   MasterHost: 127.0.0.1
+[01:06:16]:   MasterBind: (null)
+[01:06:16]:   MasterPort: 10888
+[01:06:16]: [Shard] Connecting to master...
+[01:06:26]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:06:31]: About to start a shard with these settings:
+[01:06:31]:   ShardName: Caves
+[01:06:31]:   ShardID: 2198109002
+[01:06:31]:   ShardRole: SECONDARY
+[01:06:31]:   MasterHost: 127.0.0.1
+[01:06:31]:   MasterBind: (null)
+[01:06:31]:   MasterPort: 10888
+[01:06:31]: [Shard] Connecting to master...
+[01:06:41]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:06:46]: About to start a shard with these settings:
+[01:06:46]:   ShardName: Caves
+[01:06:46]:   ShardID: 2198109002
+[01:06:46]:   ShardRole: SECONDARY
+[01:06:46]:   MasterHost: 127.0.0.1
+[01:06:46]:   MasterBind: (null)
+[01:06:46]:   MasterPort: 10888
+[01:06:46]: [Shard] Connecting to master...
+[01:06:56]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:07:01]: About to start a shard with these settings:
+[01:07:01]:   ShardName: Caves
+[01:07:01]:   ShardID: 2198109002
+[01:07:01]:   ShardRole: SECONDARY
+[01:07:01]:   MasterHost: 127.0.0.1
+[01:07:01]:   MasterBind: (null)
+[01:07:01]:   MasterPort: 10888
+[01:07:01]: [Shard] Connecting to master...
+[01:07:11]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:07:16]: About to start a shard with these settings:
+[01:07:16]:   ShardName: Caves
+[01:07:16]:   ShardID: 2198109002
+[01:07:16]:   ShardRole: SECONDARY
+[01:07:16]:   MasterHost: 127.0.0.1
+[01:07:16]:   MasterBind: (null)
+[01:07:16]:   MasterPort: 10888
+[01:07:16]: [Shard] Connecting to master...
+[01:07:26]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:07:31]: About to start a shard with these settings:
+[01:07:31]:   ShardName: Caves
+[01:07:31]:   ShardID: 2198109002
+[01:07:31]:   ShardRole: SECONDARY
+[01:07:31]:   MasterHost: 127.0.0.1
+[01:07:31]:   MasterBind: (null)
+[01:07:31]:   MasterPort: 10888
+[01:07:31]: [Shard] Connecting to master...
+[01:07:41]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:07:46]: About to start a shard with these settings:
+[01:07:46]:   ShardName: Caves
+[01:07:46]:   ShardID: 2198109002
+[01:07:46]:   ShardRole: SECONDARY
+[01:07:46]:   MasterHost: 127.0.0.1
+[01:07:46]:   MasterBind: (null)
+[01:07:46]:   MasterPort: 10888
+[01:07:46]: [Shard] Connecting to master...
+[01:07:56]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:08:01]: About to start a shard with these settings:
+[01:08:01]:   ShardName: Caves
+[01:08:01]:   ShardID: 2198109002
+[01:08:01]:   ShardRole: SECONDARY
+[01:08:01]:   MasterHost: 127.0.0.1
+[01:08:01]:   MasterBind: (null)
+[01:08:01]:   MasterPort: 10888
+[01:08:01]: [Shard] Connecting to master...
+[01:08:11]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:08:17]: About to start a shard with these settings:
+[01:08:17]:   ShardName: Caves
+[01:08:17]:   ShardID: 2198109002
+[01:08:17]:   ShardRole: SECONDARY
+[01:08:17]:   MasterHost: 127.0.0.1
+[01:08:17]:   MasterBind: (null)
+[01:08:17]:   MasterPort: 10888
+[01:08:17]: [Shard] Connecting to master...
+[01:08:27]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:08:32]: About to start a shard with these settings:
+[01:08:32]:   ShardName: Caves
+[01:08:32]:   ShardID: 2198109002
+[01:08:32]:   ShardRole: SECONDARY
+[01:08:32]:   MasterHost: 127.0.0.1
+[01:08:32]:   MasterBind: (null)
+[01:08:32]:   MasterPort: 10888
+[01:08:32]: [Shard] Connecting to master...
+[01:08:42]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:08:47]: About to start a shard with these settings:
+[01:08:47]:   ShardName: Caves
+[01:08:47]:   ShardID: 2198109002
+[01:08:47]:   ShardRole: SECONDARY
+[01:08:47]:   MasterHost: 127.0.0.1
+[01:08:47]:   MasterBind: (null)
+[01:08:47]:   MasterPort: 10888
+[01:08:47]: [Shard] Connecting to master...
+[01:08:57]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:09:02]: About to start a shard with these settings:
+[01:09:02]:   ShardName: Caves
+[01:09:02]:   ShardID: 2198109002
+[01:09:02]:   ShardRole: SECONDARY
+[01:09:02]:   MasterHost: 127.0.0.1
+[01:09:02]:   MasterBind: (null)
+[01:09:02]:   MasterPort: 10888
+[01:09:02]: [Shard] Connecting to master...
+[01:09:12]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:09:17]: About to start a shard with these settings:
+[01:09:17]:   ShardName: Caves
+[01:09:17]:   ShardID: 2198109002
+[01:09:17]:   ShardRole: SECONDARY
+[01:09:17]:   MasterHost: 127.0.0.1
+[01:09:17]:   MasterBind: (null)
+[01:09:17]:   MasterPort: 10888
+[01:09:17]: [Shard] Connecting to master...
+[01:09:27]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:09:32]: About to start a shard with these settings:
+[01:09:32]:   ShardName: Caves
+[01:09:32]:   ShardID: 2198109002
+[01:09:32]:   ShardRole: SECONDARY
+[01:09:32]:   MasterHost: 127.0.0.1
+[01:09:32]:   MasterBind: (null)
+[01:09:32]:   MasterPort: 10888
+[01:09:32]: [Shard] Connecting to master...
+[01:09:42]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:09:47]: About to start a shard with these settings:
+[01:09:47]:   ShardName: Caves
+[01:09:47]:   ShardID: 2198109002
+[01:09:47]:   ShardRole: SECONDARY
+[01:09:47]:   MasterHost: 127.0.0.1
+[01:09:47]:   MasterBind: (null)
+[01:09:47]:   MasterPort: 10888
+[01:09:47]: [Shard] Connecting to master...
+[01:09:57]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:10:02]: About to start a shard with these settings:
+[01:10:02]:   ShardName: Caves
+[01:10:02]:   ShardID: 2198109002
+[01:10:02]:   ShardRole: SECONDARY
+[01:10:02]:   MasterHost: 127.0.0.1
+[01:10:02]:   MasterBind: (null)
+[01:10:02]:   MasterPort: 10888
+[01:10:02]: [Shard] Connecting to master...
+[01:10:12]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:10:17]: About to start a shard with these settings:
+[01:10:17]:   ShardName: Caves
+[01:10:17]:   ShardID: 2198109002
+[01:10:17]:   ShardRole: SECONDARY
+[01:10:17]:   MasterHost: 127.0.0.1
+[01:10:17]:   MasterBind: (null)
+[01:10:17]:   MasterPort: 10888
+[01:10:17]: [Shard] Connecting to master...
+[01:10:27]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:10:32]: About to start a shard with these settings:
+[01:10:32]:   ShardName: Caves
+[01:10:32]:   ShardID: 2198109002
+[01:10:32]:   ShardRole: SECONDARY
+[01:10:32]:   MasterHost: 127.0.0.1
+[01:10:32]:   MasterBind: (null)
+[01:10:32]:   MasterPort: 10888
+[01:10:32]: [Shard] Connecting to master...
+[01:10:42]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:10:47]: About to start a shard with these settings:
+[01:10:47]:   ShardName: Caves
+[01:10:47]:   ShardID: 2198109002
+[01:10:47]:   ShardRole: SECONDARY
+[01:10:47]:   MasterHost: 127.0.0.1
+[01:10:47]:   MasterBind: (null)
+[01:10:47]:   MasterPort: 10888
+[01:10:47]: [Shard] Connecting to master...
+[01:10:57]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:11:02]: About to start a shard with these settings:
+[01:11:02]:   ShardName: Caves
+[01:11:02]:   ShardID: 2198109002
+[01:11:02]:   ShardRole: SECONDARY
+[01:11:02]:   MasterHost: 127.0.0.1
+[01:11:02]:   MasterBind: (null)
+[01:11:02]:   MasterPort: 10888
+[01:11:02]: [Shard] Connecting to master...
+[01:11:12]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:11:17]: About to start a shard with these settings:
+[01:11:17]:   ShardName: Caves
+[01:11:17]:   ShardID: 2198109002
+[01:11:17]:   ShardRole: SECONDARY
+[01:11:17]:   MasterHost: 127.0.0.1
+[01:11:17]:   MasterBind: (null)
+[01:11:17]:   MasterPort: 10888
+[01:11:17]: [Shard] Connecting to master...
+[01:11:27]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:11:32]: About to start a shard with these settings:
+[01:11:32]:   ShardName: Caves
+[01:11:32]:   ShardID: 2198109002
+[01:11:32]:   ShardRole: SECONDARY
+[01:11:32]:   MasterHost: 127.0.0.1
+[01:11:32]:   MasterBind: (null)
+[01:11:32]:   MasterPort: 10888
+[01:11:32]: [Shard] Connecting to master...
+[01:11:42]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:11:47]: About to start a shard with these settings:
+[01:11:47]:   ShardName: Caves
+[01:11:47]:   ShardID: 2198109002
+[01:11:47]:   ShardRole: SECONDARY
+[01:11:47]:   MasterHost: 127.0.0.1
+[01:11:47]:   MasterBind: (null)
+[01:11:47]:   MasterPort: 10888
+[01:11:47]: [Shard] Connecting to master...
+[01:11:57]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:12:02]: About to start a shard with these settings:
+[01:12:02]:   ShardName: Caves
+[01:12:02]:   ShardID: 2198109002
+[01:12:02]:   ShardRole: SECONDARY
+[01:12:02]:   MasterHost: 127.0.0.1
+[01:12:02]:   MasterBind: (null)
+[01:12:02]:   MasterPort: 10888
+[01:12:02]: [Shard] Connecting to master...
+[01:12:12]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:12:17]: About to start a shard with these settings:
+[01:12:17]:   ShardName: Caves
+[01:12:17]:   ShardID: 2198109002
+[01:12:17]:   ShardRole: SECONDARY
+[01:12:17]:   MasterHost: 127.0.0.1
+[01:12:17]:   MasterBind: (null)
+[01:12:17]:   MasterPort: 10888
+[01:12:18]: [Shard] Connecting to master...
+[01:12:28]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:12:33]: About to start a shard with these settings:
+[01:12:33]:   ShardName: Caves
+[01:12:33]:   ShardID: 2198109002
+[01:12:33]:   ShardRole: SECONDARY
+[01:12:33]:   MasterHost: 127.0.0.1
+[01:12:33]:   MasterBind: (null)
+[01:12:33]:   MasterPort: 10888
+[01:12:33]: [Shard] Connecting to master...
+[01:12:43]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:12:48]: About to start a shard with these settings:
+[01:12:48]:   ShardName: Caves
+[01:12:48]:   ShardID: 2198109002
+[01:12:48]:   ShardRole: SECONDARY
+[01:12:48]:   MasterHost: 127.0.0.1
+[01:12:48]:   MasterBind: (null)
+[01:12:48]:   MasterPort: 10888
+[01:12:48]: [Shard] Connecting to master...
+[01:12:58]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:13:03]: About to start a shard with these settings:
+[01:13:03]:   ShardName: Caves
+[01:13:03]:   ShardID: 2198109002
+[01:13:03]:   ShardRole: SECONDARY
+[01:13:03]:   MasterHost: 127.0.0.1
+[01:13:03]:   MasterBind: (null)
+[01:13:03]:   MasterPort: 10888
+[01:13:03]: [Shard] Connecting to master...
+[01:13:13]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:13:18]: About to start a shard with these settings:
+[01:13:18]:   ShardName: Caves
+[01:13:18]:   ShardID: 2198109002
+[01:13:18]:   ShardRole: SECONDARY
+[01:13:18]:   MasterHost: 127.0.0.1
+[01:13:18]:   MasterBind: (null)
+[01:13:18]:   MasterPort: 10888
+[01:13:18]: [Shard] Connecting to master...
+[01:13:28]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:13:33]: About to start a shard with these settings:
+[01:13:33]:   ShardName: Caves
+[01:13:33]:   ShardID: 2198109002
+[01:13:33]:   ShardRole: SECONDARY
+[01:13:33]:   MasterHost: 127.0.0.1
+[01:13:33]:   MasterBind: (null)
+[01:13:33]:   MasterPort: 10888
+[01:13:33]: [Shard] Connecting to master...
+[01:13:43]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:13:48]: About to start a shard with these settings:
+[01:13:48]:   ShardName: Caves
+[01:13:48]:   ShardID: 2198109002
+[01:13:48]:   ShardRole: SECONDARY
+[01:13:48]:   MasterHost: 127.0.0.1
+[01:13:48]:   MasterBind: (null)
+[01:13:48]:   MasterPort: 10888
+[01:13:48]: [Shard] Connecting to master...
+[01:13:58]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:14:03]: About to start a shard with these settings:
+[01:14:03]:   ShardName: Caves
+[01:14:03]:   ShardID: 2198109002
+[01:14:03]:   ShardRole: SECONDARY
+[01:14:03]:   MasterHost: 127.0.0.1
+[01:14:03]:   MasterBind: (null)
+[01:14:03]:   MasterPort: 10888
+[01:14:03]: [Shard] Connecting to master...
+[01:14:13]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:14:18]: About to start a shard with these settings:
+[01:14:18]:   ShardName: Caves
+[01:14:18]:   ShardID: 2198109002
+[01:14:18]:   ShardRole: SECONDARY
+[01:14:18]:   MasterHost: 127.0.0.1
+[01:14:18]:   MasterBind: (null)
+[01:14:18]:   MasterPort: 10888
+[01:14:18]: [Shard] Connecting to master...
+[01:14:28]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:14:33]: About to start a shard with these settings:
+[01:14:33]:   ShardName: Caves
+[01:14:33]:   ShardID: 2198109002
+[01:14:33]:   ShardRole: SECONDARY
+[01:14:33]:   MasterHost: 127.0.0.1
+[01:14:33]:   MasterBind: (null)
+[01:14:33]:   MasterPort: 10888
+[01:14:33]: [Shard] Connecting to master...
+[01:14:43]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:14:48]: About to start a shard with these settings:
+[01:14:48]:   ShardName: Caves
+[01:14:48]:   ShardID: 2198109002
+[01:14:48]:   ShardRole: SECONDARY
+[01:14:48]:   MasterHost: 127.0.0.1
+[01:14:48]:   MasterBind: (null)
+[01:14:48]:   MasterPort: 10888
+[01:14:48]: [Shard] Connecting to master...
+[01:14:58]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:15:03]: About to start a shard with these settings:
+[01:15:03]:   ShardName: Caves
+[01:15:03]:   ShardID: 2198109002
+[01:15:03]:   ShardRole: SECONDARY
+[01:15:03]:   MasterHost: 127.0.0.1
+[01:15:03]:   MasterBind: (null)
+[01:15:03]:   MasterPort: 10888
+[01:15:03]: [Shard] Connecting to master...
+[01:15:13]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:15:18]: About to start a shard with these settings:
+[01:15:18]:   ShardName: Caves
+[01:15:18]:   ShardID: 2198109002
+[01:15:18]:   ShardRole: SECONDARY
+[01:15:18]:   MasterHost: 127.0.0.1
+[01:15:18]:   MasterBind: (null)
+[01:15:18]:   MasterPort: 10888
+[01:15:18]: [Shard] Connecting to master...
+[01:15:28]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:15:33]: About to start a shard with these settings:
+[01:15:33]:   ShardName: Caves
+[01:15:33]:   ShardID: 2198109002
+[01:15:33]:   ShardRole: SECONDARY
+[01:15:33]:   MasterHost: 127.0.0.1
+[01:15:33]:   MasterBind: (null)
+[01:15:33]:   MasterPort: 10888
+[01:15:33]: [Shard] Connecting to master...
+[01:15:43]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:15:48]: About to start a shard with these settings:
+[01:15:48]:   ShardName: Caves
+[01:15:48]:   ShardID: 2198109002
+[01:15:48]:   ShardRole: SECONDARY
+[01:15:48]:   MasterHost: 127.0.0.1
+[01:15:48]:   MasterBind: (null)
+[01:15:48]:   MasterPort: 10888
+[01:15:48]: [Shard] Connecting to master...
+[01:15:58]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:16:03]: About to start a shard with these settings:
+[01:16:03]:   ShardName: Caves
+[01:16:03]:   ShardID: 2198109002
+[01:16:03]:   ShardRole: SECONDARY
+[01:16:03]:   MasterHost: 127.0.0.1
+[01:16:03]:   MasterBind: (null)
+[01:16:03]:   MasterPort: 10888
+[01:16:03]: [Shard] Connecting to master...
+[01:16:13]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:16:18]: About to start a shard with these settings:
+[01:16:18]:   ShardName: Caves
+[01:16:18]:   ShardID: 2198109002
+[01:16:18]:   ShardRole: SECONDARY
+[01:16:18]:   MasterHost: 127.0.0.1
+[01:16:18]:   MasterBind: (null)
+[01:16:18]:   MasterPort: 10888
+[01:16:19]: [Shard] Connecting to master...
+[01:16:29]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:16:34]: About to start a shard with these settings:
+[01:16:34]:   ShardName: Caves
+[01:16:34]:   ShardID: 2198109002
+[01:16:34]:   ShardRole: SECONDARY
+[01:16:34]:   MasterHost: 127.0.0.1
+[01:16:34]:   MasterBind: (null)
+[01:16:34]:   MasterPort: 10888
+[01:16:34]: [Shard] Connecting to master...
+[01:16:44]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:16:49]: About to start a shard with these settings:
+[01:16:49]:   ShardName: Caves
+[01:16:49]:   ShardID: 2198109002
+[01:16:49]:   ShardRole: SECONDARY
+[01:16:49]:   MasterHost: 127.0.0.1
+[01:16:49]:   MasterBind: (null)
+[01:16:49]:   MasterPort: 10888
+[01:16:49]: [Shard] Connecting to master...
+[01:16:59]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:17:04]: About to start a shard with these settings:
+[01:17:04]:   ShardName: Caves
+[01:17:04]:   ShardID: 2198109002
+[01:17:04]:   ShardRole: SECONDARY
+[01:17:04]:   MasterHost: 127.0.0.1
+[01:17:04]:   MasterBind: (null)
+[01:17:04]:   MasterPort: 10888
+[01:17:04]: [Shard] Connecting to master...
+[01:17:14]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:17:19]: About to start a shard with these settings:
+[01:17:19]:   ShardName: Caves
+[01:17:19]:   ShardID: 2198109002
+[01:17:19]:   ShardRole: SECONDARY
+[01:17:19]:   MasterHost: 127.0.0.1
+[01:17:19]:   MasterBind: (null)
+[01:17:19]:   MasterPort: 10888
+[01:17:19]: [Shard] Connecting to master...
+[01:17:29]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:17:34]: About to start a shard with these settings:
+[01:17:34]:   ShardName: Caves
+[01:17:34]:   ShardID: 2198109002
+[01:17:34]:   ShardRole: SECONDARY
+[01:17:34]:   MasterHost: 127.0.0.1
+[01:17:34]:   MasterBind: (null)
+[01:17:34]:   MasterPort: 10888
+[01:17:34]: [Shard] Connecting to master...
+[01:17:44]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:17:49]: About to start a shard with these settings:
+[01:17:49]:   ShardName: Caves
+[01:17:49]:   ShardID: 2198109002
+[01:17:49]:   ShardRole: SECONDARY
+[01:17:49]:   MasterHost: 127.0.0.1
+[01:17:49]:   MasterBind: (null)
+[01:17:49]:   MasterPort: 10888
+[01:17:49]: [Shard] Connecting to master...
+[01:17:59]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:18:04]: About to start a shard with these settings:
+[01:18:04]:   ShardName: Caves
+[01:18:04]:   ShardID: 2198109002
+[01:18:04]:   ShardRole: SECONDARY
+[01:18:04]:   MasterHost: 127.0.0.1
+[01:18:04]:   MasterBind: (null)
+[01:18:04]:   MasterPort: 10888
+[01:18:04]: [Shard] Connecting to master...
+[01:18:14]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:18:19]: About to start a shard with these settings:
+[01:18:19]:   ShardName: Caves
+[01:18:19]:   ShardID: 2198109002
+[01:18:19]:   ShardRole: SECONDARY
+[01:18:19]:   MasterHost: 127.0.0.1
+[01:18:19]:   MasterBind: (null)
+[01:18:19]:   MasterPort: 10888
+[01:18:19]: [Shard] Connecting to master...
+[01:18:29]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:18:34]: About to start a shard with these settings:
+[01:18:34]:   ShardName: Caves
+[01:18:34]:   ShardID: 2198109002
+[01:18:34]:   ShardRole: SECONDARY
+[01:18:34]:   MasterHost: 127.0.0.1
+[01:18:34]:   MasterBind: (null)
+[01:18:34]:   MasterPort: 10888
+[01:18:34]: [Shard] Connecting to master...
+[01:18:44]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:18:49]: About to start a shard with these settings:
+[01:18:49]:   ShardName: Caves
+[01:18:49]:   ShardID: 2198109002
+[01:18:49]:   ShardRole: SECONDARY
+[01:18:49]:   MasterHost: 127.0.0.1
+[01:18:49]:   MasterBind: (null)
+[01:18:49]:   MasterPort: 10888
+[01:18:49]: [Shard] Connecting to master...
+[01:18:59]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:19:04]: About to start a shard with these settings:
+[01:19:04]:   ShardName: Caves
+[01:19:04]:   ShardID: 2198109002
+[01:19:04]:   ShardRole: SECONDARY
+[01:19:04]:   MasterHost: 127.0.0.1
+[01:19:04]:   MasterBind: (null)
+[01:19:04]:   MasterPort: 10888
+[01:19:04]: [Shard] Connecting to master...
+[01:19:14]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:19:19]: About to start a shard with these settings:
+[01:19:19]:   ShardName: Caves
+[01:19:19]:   ShardID: 2198109002
+[01:19:19]:   ShardRole: SECONDARY
+[01:19:19]:   MasterHost: 127.0.0.1
+[01:19:19]:   MasterBind: (null)
+[01:19:19]:   MasterPort: 10888
+[01:19:19]: [Shard] Connecting to master...
+[01:19:29]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:19:34]: About to start a shard with these settings:
+[01:19:34]:   ShardName: Caves
+[01:19:34]:   ShardID: 2198109002
+[01:19:34]:   ShardRole: SECONDARY
+[01:19:34]:   MasterHost: 127.0.0.1
+[01:19:34]:   MasterBind: (null)
+[01:19:34]:   MasterPort: 10888
+[01:19:34]: [Shard] Connecting to master...
+[01:19:44]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:19:49]: About to start a shard with these settings:
+[01:19:49]:   ShardName: Caves
+[01:19:49]:   ShardID: 2198109002
+[01:19:49]:   ShardRole: SECONDARY
+[01:19:49]:   MasterHost: 127.0.0.1
+[01:19:49]:   MasterBind: (null)
+[01:19:49]:   MasterPort: 10888
+[01:19:49]: [Shard] Connecting to master...
+[01:19:59]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:20:04]: About to start a shard with these settings:
+[01:20:04]:   ShardName: Caves
+[01:20:04]:   ShardID: 2198109002
+[01:20:04]:   ShardRole: SECONDARY
+[01:20:04]:   MasterHost: 127.0.0.1
+[01:20:04]:   MasterBind: (null)
+[01:20:04]:   MasterPort: 10888
+[01:20:04]: [Shard] Connecting to master...
+[01:20:14]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:20:19]: About to start a shard with these settings:
+[01:20:19]:   ShardName: Caves
+[01:20:19]:   ShardID: 2198109002
+[01:20:19]:   ShardRole: SECONDARY
+[01:20:19]:   MasterHost: 127.0.0.1
+[01:20:19]:   MasterBind: (null)
+[01:20:19]:   MasterPort: 10888
+[01:20:19]: [Shard] Connecting to master...
+[01:20:29]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:20:35]: About to start a shard with these settings:
+[01:20:35]:   ShardName: Caves
+[01:20:35]:   ShardID: 2198109002
+[01:20:35]:   ShardRole: SECONDARY
+[01:20:35]:   MasterHost: 127.0.0.1
+[01:20:35]:   MasterBind: (null)
+[01:20:35]:   MasterPort: 10888
+[01:20:35]: [Shard] Connecting to master...
+[01:20:45]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:20:50]: About to start a shard with these settings:
+[01:20:50]:   ShardName: Caves
+[01:20:50]:   ShardID: 2198109002
+[01:20:50]:   ShardRole: SECONDARY
+[01:20:50]:   MasterHost: 127.0.0.1
+[01:20:50]:   MasterBind: (null)
+[01:20:50]:   MasterPort: 10888
+[01:20:50]: [Shard] Connecting to master...
+[01:21:00]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:21:05]: About to start a shard with these settings:
+[01:21:05]:   ShardName: Caves
+[01:21:05]:   ShardID: 2198109002
+[01:21:05]:   ShardRole: SECONDARY
+[01:21:05]:   MasterHost: 127.0.0.1
+[01:21:05]:   MasterBind: (null)
+[01:21:05]:   MasterPort: 10888
+[01:21:05]: [Shard] Connecting to master...
+[01:21:15]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:21:20]: About to start a shard with these settings:
+[01:21:20]:   ShardName: Caves
+[01:21:20]:   ShardID: 2198109002
+[01:21:20]:   ShardRole: SECONDARY
+[01:21:20]:   MasterHost: 127.0.0.1
+[01:21:20]:   MasterBind: (null)
+[01:21:20]:   MasterPort: 10888
+[01:21:20]: [Shard] Connecting to master...
+[01:21:30]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:21:35]: About to start a shard with these settings:
+[01:21:35]:   ShardName: Caves
+[01:21:35]:   ShardID: 2198109002
+[01:21:35]:   ShardRole: SECONDARY
+[01:21:35]:   MasterHost: 127.0.0.1
+[01:21:35]:   MasterBind: (null)
+[01:21:35]:   MasterPort: 10888
+[01:21:35]: [Shard] Connecting to master...
+[01:21:45]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:21:50]: About to start a shard with these settings:
+[01:21:50]:   ShardName: Caves
+[01:21:50]:   ShardID: 2198109002
+[01:21:50]:   ShardRole: SECONDARY
+[01:21:50]:   MasterHost: 127.0.0.1
+[01:21:50]:   MasterBind: (null)
+[01:21:50]:   MasterPort: 10888
+[01:21:50]: [Shard] Connecting to master...
+[01:22:00]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:22:05]: About to start a shard with these settings:
+[01:22:05]:   ShardName: Caves
+[01:22:05]:   ShardID: 2198109002
+[01:22:05]:   ShardRole: SECONDARY
+[01:22:05]:   MasterHost: 127.0.0.1
+[01:22:05]:   MasterBind: (null)
+[01:22:05]:   MasterPort: 10888
+[01:22:05]: [Shard] Connecting to master...
+[01:22:15]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:22:20]: About to start a shard with these settings:
+[01:22:20]:   ShardName: Caves
+[01:22:20]:   ShardID: 2198109002
+[01:22:20]:   ShardRole: SECONDARY
+[01:22:20]:   MasterHost: 127.0.0.1
+[01:22:20]:   MasterBind: (null)
+[01:22:20]:   MasterPort: 10888
+[01:22:20]: [Shard] Connecting to master...
+[01:22:30]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:22:35]: About to start a shard with these settings:
+[01:22:35]:   ShardName: Caves
+[01:22:35]:   ShardID: 2198109002
+[01:22:35]:   ShardRole: SECONDARY
+[01:22:35]:   MasterHost: 127.0.0.1
+[01:22:35]:   MasterBind: (null)
+[01:22:35]:   MasterPort: 10888
+[01:22:35]: [Shard] Connecting to master...
+[01:22:45]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:22:50]: About to start a shard with these settings:
+[01:22:50]:   ShardName: Caves
+[01:22:50]:   ShardID: 2198109002
+[01:22:50]:   ShardRole: SECONDARY
+[01:22:50]:   MasterHost: 127.0.0.1
+[01:22:50]:   MasterBind: (null)
+[01:22:50]:   MasterPort: 10888
+[01:22:50]: [Shard] Connecting to master...
+[01:23:00]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:23:05]: About to start a shard with these settings:
+[01:23:05]:   ShardName: Caves
+[01:23:05]:   ShardID: 2198109002
+[01:23:05]:   ShardRole: SECONDARY
+[01:23:05]:   MasterHost: 127.0.0.1
+[01:23:05]:   MasterBind: (null)
+[01:23:05]:   MasterPort: 10888
+[01:23:05]: [Shard] Connecting to master...
+[01:23:15]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:23:20]: About to start a shard with these settings:
+[01:23:20]:   ShardName: Caves
+[01:23:20]:   ShardID: 2198109002
+[01:23:20]:   ShardRole: SECONDARY
+[01:23:20]:   MasterHost: 127.0.0.1
+[01:23:20]:   MasterBind: (null)
+[01:23:20]:   MasterPort: 10888
+[01:23:20]: [Shard] Connecting to master...
+[01:23:30]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:23:35]: About to start a shard with these settings:
+[01:23:35]:   ShardName: Caves
+[01:23:35]:   ShardID: 2198109002
+[01:23:35]:   ShardRole: SECONDARY
+[01:23:35]:   MasterHost: 127.0.0.1
+[01:23:35]:   MasterBind: (null)
+[01:23:35]:   MasterPort: 10888
+[01:23:35]: [Shard] Connecting to master...
+[01:23:45]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:23:50]: About to start a shard with these settings:
+[01:23:50]:   ShardName: Caves
+[01:23:50]:   ShardID: 2198109002
+[01:23:50]:   ShardRole: SECONDARY
+[01:23:50]:   MasterHost: 127.0.0.1
+[01:23:50]:   MasterBind: (null)
+[01:23:50]:   MasterPort: 10888
+[01:23:50]: [Shard] Connecting to master...
+[01:24:00]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:24:05]: About to start a shard with these settings:
+[01:24:05]:   ShardName: Caves
+[01:24:05]:   ShardID: 2198109002
+[01:24:05]:   ShardRole: SECONDARY
+[01:24:05]:   MasterHost: 127.0.0.1
+[01:24:05]:   MasterBind: (null)
+[01:24:05]:   MasterPort: 10888
+[01:24:05]: [Shard] Connecting to master...
+[01:24:15]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:24:20]: About to start a shard with these settings:
+[01:24:20]:   ShardName: Caves
+[01:24:20]:   ShardID: 2198109002
+[01:24:20]:   ShardRole: SECONDARY
+[01:24:20]:   MasterHost: 127.0.0.1
+[01:24:20]:   MasterBind: (null)
+[01:24:20]:   MasterPort: 10888
+[01:24:20]: [Shard] Connecting to master...
+[01:24:30]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:24:36]: About to start a shard with these settings:
+[01:24:36]:   ShardName: Caves
+[01:24:36]:   ShardID: 2198109002
+[01:24:36]:   ShardRole: SECONDARY
+[01:24:36]:   MasterHost: 127.0.0.1
+[01:24:36]:   MasterBind: (null)
+[01:24:36]:   MasterPort: 10888
+[01:24:36]: [Shard] Connecting to master...
+[01:24:46]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:24:51]: About to start a shard with these settings:
+[01:24:51]:   ShardName: Caves
+[01:24:51]:   ShardID: 2198109002
+[01:24:51]:   ShardRole: SECONDARY
+[01:24:51]:   MasterHost: 127.0.0.1
+[01:24:51]:   MasterBind: (null)
+[01:24:51]:   MasterPort: 10888
+[01:24:51]: [Shard] Connecting to master...
+[01:25:01]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:25:06]: About to start a shard with these settings:
+[01:25:06]:   ShardName: Caves
+[01:25:06]:   ShardID: 2198109002
+[01:25:06]:   ShardRole: SECONDARY
+[01:25:06]:   MasterHost: 127.0.0.1
+[01:25:06]:   MasterBind: (null)
+[01:25:06]:   MasterPort: 10888
+[01:25:06]: [Shard] Connecting to master...
+[01:25:16]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:25:21]: About to start a shard with these settings:
+[01:25:21]:   ShardName: Caves
+[01:25:21]:   ShardID: 2198109002
+[01:25:21]:   ShardRole: SECONDARY
+[01:25:21]:   MasterHost: 127.0.0.1
+[01:25:21]:   MasterBind: (null)
+[01:25:21]:   MasterPort: 10888
+[01:25:21]: [Shard] Connecting to master...
+[01:25:31]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:25:36]: About to start a shard with these settings:
+[01:25:36]:   ShardName: Caves
+[01:25:36]:   ShardID: 2198109002
+[01:25:36]:   ShardRole: SECONDARY
+[01:25:36]:   MasterHost: 127.0.0.1
+[01:25:36]:   MasterBind: (null)
+[01:25:36]:   MasterPort: 10888
+[01:25:36]: [Shard] Connecting to master...
+[01:25:46]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:25:51]: About to start a shard with these settings:
+[01:25:51]:   ShardName: Caves
+[01:25:51]:   ShardID: 2198109002
+[01:25:51]:   ShardRole: SECONDARY
+[01:25:51]:   MasterHost: 127.0.0.1
+[01:25:51]:   MasterBind: (null)
+[01:25:51]:   MasterPort: 10888
+[01:25:51]: [Shard] Connecting to master...
+[01:26:01]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:26:06]: About to start a shard with these settings:
+[01:26:06]:   ShardName: Caves
+[01:26:06]:   ShardID: 2198109002
+[01:26:06]:   ShardRole: SECONDARY
+[01:26:06]:   MasterHost: 127.0.0.1
+[01:26:06]:   MasterBind: (null)
+[01:26:06]:   MasterPort: 10888
+[01:26:06]: [Shard] Connecting to master...
+[01:26:16]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:26:21]: About to start a shard with these settings:
+[01:26:21]:   ShardName: Caves
+[01:26:21]:   ShardID: 2198109002
+[01:26:21]:   ShardRole: SECONDARY
+[01:26:21]:   MasterHost: 127.0.0.1
+[01:26:21]:   MasterBind: (null)
+[01:26:21]:   MasterPort: 10888
+[01:26:21]: [Shard] Connecting to master...
+[01:26:31]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:26:36]: About to start a shard with these settings:
+[01:26:36]:   ShardName: Caves
+[01:26:36]:   ShardID: 2198109002
+[01:26:36]:   ShardRole: SECONDARY
+[01:26:36]:   MasterHost: 127.0.0.1
+[01:26:36]:   MasterBind: (null)
+[01:26:36]:   MasterPort: 10888
+[01:26:36]: [Shard] Connecting to master...
+[01:26:46]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:26:51]: About to start a shard with these settings:
+[01:26:51]:   ShardName: Caves
+[01:26:51]:   ShardID: 2198109002
+[01:26:51]:   ShardRole: SECONDARY
+[01:26:51]:   MasterHost: 127.0.0.1
+[01:26:51]:   MasterBind: (null)
+[01:26:51]:   MasterPort: 10888
+[01:26:51]: [Shard] Connecting to master...
+[01:27:01]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:27:06]: About to start a shard with these settings:
+[01:27:06]:   ShardName: Caves
+[01:27:06]:   ShardID: 2198109002
+[01:27:06]:   ShardRole: SECONDARY
+[01:27:06]:   MasterHost: 127.0.0.1
+[01:27:06]:   MasterBind: (null)
+[01:27:06]:   MasterPort: 10888
+[01:27:06]: [Shard] Connecting to master...
+[01:27:16]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:27:21]: About to start a shard with these settings:
+[01:27:21]:   ShardName: Caves
+[01:27:21]:   ShardID: 2198109002
+[01:27:21]:   ShardRole: SECONDARY
+[01:27:21]:   MasterHost: 127.0.0.1
+[01:27:21]:   MasterBind: (null)
+[01:27:21]:   MasterPort: 10888
+[01:27:21]: [Shard] Connecting to master...
+[01:27:31]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:27:36]: About to start a shard with these settings:
+[01:27:36]:   ShardName: Caves
+[01:27:36]:   ShardID: 2198109002
+[01:27:36]:   ShardRole: SECONDARY
+[01:27:36]:   MasterHost: 127.0.0.1
+[01:27:36]:   MasterBind: (null)
+[01:27:36]:   MasterPort: 10888
+[01:27:36]: [Shard] Connecting to master...
+[01:27:46]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:27:51]: About to start a shard with these settings:
+[01:27:51]:   ShardName: Caves
+[01:27:51]:   ShardID: 2198109002
+[01:27:51]:   ShardRole: SECONDARY
+[01:27:51]:   MasterHost: 127.0.0.1
+[01:27:51]:   MasterBind: (null)
+[01:27:51]:   MasterPort: 10888
+[01:27:51]: [Shard] Connecting to master...
+[01:28:01]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:28:06]: About to start a shard with these settings:
+[01:28:06]:   ShardName: Caves
+[01:28:06]:   ShardID: 2198109002
+[01:28:06]:   ShardRole: SECONDARY
+[01:28:06]:   MasterHost: 127.0.0.1
+[01:28:06]:   MasterBind: (null)
+[01:28:06]:   MasterPort: 10888
+[01:28:06]: [Shard] Connecting to master...
+[01:28:16]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:28:21]: About to start a shard with these settings:
+[01:28:21]:   ShardName: Caves
+[01:28:21]:   ShardID: 2198109002
+[01:28:21]:   ShardRole: SECONDARY
+[01:28:21]:   MasterHost: 127.0.0.1
+[01:28:21]:   MasterBind: (null)
+[01:28:21]:   MasterPort: 10888
+[01:28:22]: [Shard] Connecting to master...
+[01:28:32]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:28:37]: About to start a shard with these settings:
+[01:28:37]:   ShardName: Caves
+[01:28:37]:   ShardID: 2198109002
+[01:28:37]:   ShardRole: SECONDARY
+[01:28:37]:   MasterHost: 127.0.0.1
+[01:28:37]:   MasterBind: (null)
+[01:28:37]:   MasterPort: 10888
+[01:28:37]: [Shard] Connecting to master...
+[01:28:47]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:28:52]: About to start a shard with these settings:
+[01:28:52]:   ShardName: Caves
+[01:28:52]:   ShardID: 2198109002
+[01:28:52]:   ShardRole: SECONDARY
+[01:28:52]:   MasterHost: 127.0.0.1
+[01:28:52]:   MasterBind: (null)
+[01:28:52]:   MasterPort: 10888
+[01:28:52]: [Shard] Connecting to master...
+[01:29:02]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:29:07]: About to start a shard with these settings:
+[01:29:07]:   ShardName: Caves
+[01:29:07]:   ShardID: 2198109002
+[01:29:07]:   ShardRole: SECONDARY
+[01:29:07]:   MasterHost: 127.0.0.1
+[01:29:07]:   MasterBind: (null)
+[01:29:07]:   MasterPort: 10888
+[01:29:07]: [Shard] Connecting to master...
+[01:29:17]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:29:22]: About to start a shard with these settings:
+[01:29:22]:   ShardName: Caves
+[01:29:22]:   ShardID: 2198109002
+[01:29:22]:   ShardRole: SECONDARY
+[01:29:22]:   MasterHost: 127.0.0.1
+[01:29:22]:   MasterBind: (null)
+[01:29:22]:   MasterPort: 10888
+[01:29:22]: [Shard] Connecting to master...
+[01:29:32]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:29:37]: About to start a shard with these settings:
+[01:29:37]:   ShardName: Caves
+[01:29:37]:   ShardID: 2198109002
+[01:29:37]:   ShardRole: SECONDARY
+[01:29:37]:   MasterHost: 127.0.0.1
+[01:29:37]:   MasterBind: (null)
+[01:29:37]:   MasterPort: 10888
+[01:29:37]: [Shard] Connecting to master...
+[01:29:47]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:29:52]: About to start a shard with these settings:
+[01:29:52]:   ShardName: Caves
+[01:29:52]:   ShardID: 2198109002
+[01:29:52]:   ShardRole: SECONDARY
+[01:29:52]:   MasterHost: 127.0.0.1
+[01:29:52]:   MasterBind: (null)
+[01:29:52]:   MasterPort: 10888
+[01:29:52]: [Shard] Connecting to master...
+[01:30:02]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:30:02]: [200] Account Communication Success (6)
+[01:30:02]: Received (KU_08rWyoX7) from TokenPurpose
+[01:30:07]: About to start a shard with these settings:
+[01:30:07]:   ShardName: Caves
+[01:30:07]:   ShardID: 2198109002
+[01:30:07]:   ShardRole: SECONDARY
+[01:30:07]:   MasterHost: 127.0.0.1
+[01:30:07]:   MasterBind: (null)
+[01:30:07]:   MasterPort: 10888
+[01:30:07]: [Shard] Connecting to master...
+[01:30:17]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:30:22]: About to start a shard with these settings:
+[01:30:22]:   ShardName: Caves
+[01:30:22]:   ShardID: 2198109002
+[01:30:22]:   ShardRole: SECONDARY
+[01:30:22]:   MasterHost: 127.0.0.1
+[01:30:22]:   MasterBind: (null)
+[01:30:22]:   MasterPort: 10888
+[01:30:22]: [Shard] Connecting to master...
+[01:30:32]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:30:37]: About to start a shard with these settings:
+[01:30:37]:   ShardName: Caves
+[01:30:37]:   ShardID: 2198109002
+[01:30:37]:   ShardRole: SECONDARY
+[01:30:37]:   MasterHost: 127.0.0.1
+[01:30:37]:   MasterBind: (null)
+[01:30:37]:   MasterPort: 10888
+[01:30:37]: [Shard] Connecting to master...
+[01:30:47]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:30:52]: About to start a shard with these settings:
+[01:30:52]:   ShardName: Caves
+[01:30:52]:   ShardID: 2198109002
+[01:30:52]:   ShardRole: SECONDARY
+[01:30:52]:   MasterHost: 127.0.0.1
+[01:30:52]:   MasterBind: (null)
+[01:30:52]:   MasterPort: 10888
+[01:30:52]: [Shard] Connecting to master...
+[01:31:02]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:31:07]: About to start a shard with these settings:
+[01:31:07]:   ShardName: Caves
+[01:31:07]:   ShardID: 2198109002
+[01:31:07]:   ShardRole: SECONDARY
+[01:31:07]:   MasterHost: 127.0.0.1
+[01:31:07]:   MasterBind: (null)
+[01:31:07]:   MasterPort: 10888
+[01:31:07]: [Shard] Connecting to master...
+[01:31:17]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:31:22]: About to start a shard with these settings:
+[01:31:22]:   ShardName: Caves
+[01:31:22]:   ShardID: 2198109002
+[01:31:22]:   ShardRole: SECONDARY
+[01:31:22]:   MasterHost: 127.0.0.1
+[01:31:22]:   MasterBind: (null)
+[01:31:22]:   MasterPort: 10888
+[01:31:22]: [Shard] Connecting to master...
+[01:31:32]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:31:37]: About to start a shard with these settings:
+[01:31:37]:   ShardName: Caves
+[01:31:37]:   ShardID: 2198109002
+[01:31:37]:   ShardRole: SECONDARY
+[01:31:37]:   MasterHost: 127.0.0.1
+[01:31:37]:   MasterBind: (null)
+[01:31:37]:   MasterPort: 10888
+[01:31:37]: [Shard] Connecting to master...
+[01:31:47]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:31:52]: About to start a shard with these settings:
+[01:31:52]:   ShardName: Caves
+[01:31:52]:   ShardID: 2198109002
+[01:31:52]:   ShardRole: SECONDARY
+[01:31:52]:   MasterHost: 127.0.0.1
+[01:31:52]:   MasterBind: (null)
+[01:31:52]:   MasterPort: 10888
+[01:31:52]: [Shard] Connecting to master...
+[01:32:02]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:32:07]: About to start a shard with these settings:
+[01:32:07]:   ShardName: Caves
+[01:32:07]:   ShardID: 2198109002
+[01:32:07]:   ShardRole: SECONDARY
+[01:32:07]:   MasterHost: 127.0.0.1
+[01:32:07]:   MasterBind: (null)
+[01:32:07]:   MasterPort: 10888
+[01:32:07]: [Shard] Connecting to master...
+[01:32:16]: Available disk space for save files: 125824 MB
+[01:32:16]: Serializing world: session/13647C49E165F770/0000000013
+[01:32:16]: Truncating to snapshot #13...
+[01:32:16]:  - session/13647C49E165F770/0000000007
+[01:32:16]:    1 file(s) removed
+[01:32:16]: [Shard] Stopping shard mode
+[01:32:16]: [Steam] SendUserDisconnect for ''
+[01:32:16]: Collecting garbage...
+[01:32:17]: lua_gc took 0.14 seconds
+[01:32:17]: ~ShardLuaProxy()
+[01:32:17]: ~cEventLeaderboardProxy()
+[01:32:17]: ~ItemServerLuaProxy()
+[01:32:17]: ~InventoryLuaProxy()
+[01:32:17]: ~NetworkLuaProxy()
+[01:32:17]: ~SimLuaProxy()
+[01:32:17]: lua_close took 0.15 seconds
+[01:32:17]: Could not unload undefined prefab (brokenwall_scrap)
+[01:32:17]: CurlRequestManager::ClientThread::Main() complete
+[01:32:17]: HttpClient2 discarded 0 callbacks.
+[01:32:17]: Shutting down

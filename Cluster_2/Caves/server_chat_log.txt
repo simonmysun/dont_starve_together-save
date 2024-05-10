@@ -1,4 +1,5 @@
-[00:01:19]: [Join Announcement] simonmysun
-[00:01:52]: [Join Announcement] lucylu627
-[00:06:03]: [Vote Announcement] rollback passed
-[00:28:27]: [Leave Announcement] simonmysun
+[00:00:21]: [Join Announcement] simonmysun
+[00:03:13]: [Join Announcement] lucylu627
+[00:40:02]: [Death Announcement] simonmysun was killed by Spider Warrior. He became a spooky ghost!
+[00:40:03]: [Resurrect Announcement] simonmysun was resurrected by Skeleton.
+[00:52:22]: [Leave Announcement] simonmysun
